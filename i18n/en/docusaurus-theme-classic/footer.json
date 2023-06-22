@@ -1,0 +1,50 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Download App": {
+    "message": "Download App",
+    "description": "The title of the footer links column with title=Download App in the footer"
+  },
+  "link.item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/leela.chakra/"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/leelachakraapp"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discordapp.com/invite/docusaurus"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/leelachakraapp"
+  },
+  "link.item.label.VK": {
+    "message": "VK",
+    "description": "The label of footer link with label=VK linking to https://vk.com/leela.chakra"
+  },
+  "link.item.label.App Store": {
+    "message": "App Store",
+    "description": "The label of footer link with label=App Store linking to https://apps.apple.com/ru/app/%D0%B8%D0%B3%D1%80%D0%B0-%D0%BB%D0%B8%D0%BB%D0%B0/id1296604457"
+  },
+  "link.item.label.Google Play": {
+    "message": "Google Play",
+    "description": "The label of footer link with label=Google Play linking to https://play.google.com/store/apps/details?id=com.leelagame&hl=ru"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 Leela Ai, Inc. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Rules": {
+    "message": "Rules",
+    "description": "The label for category Rules in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Plans": {
+    "message": "Plans",
+    "description": "The label for category Plans in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Plans.link.generated-index.description": {
+    "message": "Plans",
+    "description": "The generated-index page description for category Plans in sidebar tutorialSidebar"
+  }
+}

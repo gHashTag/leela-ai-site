@@ -1,6 +1,7 @@
 import React from 'react'
 import clsx from 'clsx'
 import styles from './styles.module.css'
+import { translate } from '@docusaurus/Translate'
 
 type FeatureItem = {
   title: string
@@ -10,32 +11,53 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: (
+      <>
+        {translate({
+          id: 'easytouse'
+        })}
+      </>
+    ),
+    Svg: require('@site/static/img/important.svg').default,
     description: (
       <>
-        Leela AI is designed for maximum user experience. Installing and getting started with the application is easy
-        and intuitive.
+        {translate({
+          id: 'easytouse.desc'
+        })}
       </>
     )
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: (
+      <>
+        {translate({
+          id: 'focus'
+        })}
+      </>
+    ),
+    Svg: require('@site/static/img/easy.svg').default,
     description: (
       <>
-        Leela AI allows you to focus on what matters most - your self-discovery and spiritual growth. We take care of
-        all routine tasks so that you can immerse yourself in the development process as much as possible.
+        {translate({
+          id: 'focus.desc'
+        })}
       </>
     )
   },
   {
-    title: 'Supported by AI',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: (
+      <>
+        {translate({
+          id: 'supported'
+        })}
+      </>
+    ),
+    Svg: require('@site/static/img/ai.svg').default,
     description: (
       <>
-        Leela AI uses advanced AI technology to provide you with a unique and personalized experience. Using AI
-        technology, Leela can adapt to your needs and offer relevant and in-depth knowledge.
+        {translate({
+          id: 'supported.desc'
+        })}
       </>
     )
   }
