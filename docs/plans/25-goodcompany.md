@@ -1,16 +1,17 @@
 ---
-description: Игрок, начинающий в третьей чакре следовать пути Дхармы, вскоре обнаруживает себя в обществе людей, стремящихся к развитию и реализации своих лучших черт.
+description: A player who begins to follow the path of Dharma in the third chakra soon finds himself in a society of people striving to develop and realize their best features.
 ---
-# План 25. Хорошая компания (су-санг-лока) 
 
+# Plan 25 Good company (su-sang-loka)
 
 ---
-Игрок, начинающий в третьей чакре следовать пути Дхармы, вскоре обнаруживает себя в обществе людей, стремящихся к развитию и реализации своих лучших черт. Находясь в таком окружении, игрок видит, что его энергия поднимается благодаря подтверждению истинности его исканий и осознанию того, что есть и другие люди, стремящиеся к той же цели, что и он. В игру снова вступает основной запрос третьей чакры — расширение эго. Это позитивное сообщество и называется су-санг. 
 
-Для людей, стремящихся к реализации духовных ценностей, такое сообщество принимает форму органичного товарищества, собирающегося вокруг духовного учителя с развитыми четвертой и пятой чакрами. Плохая компания собирается обычно вокруг харизматического лидера с доминирующей третьей чакрой. Игрок и окружающие его товарищи стремятся подражать своему учителю и интегрировать то, что дает учитель, в свою личность. 
+A player who begins to follow the path of Dharma in the third chakra soon finds himself in a society of people striving to develop and realize their best features. Being in such an environment, the player sees that his energy rises due to the confirmation of the truth of his search and the realization that there are other people striving for the same goal as him. The main request of the third chakra again comes into play - the expansion of the ego. This positive community is called su-sang.
 
-В хорошей компании пороки не культивируются. Игроки с помощью учителя стараются служить друг для друга зеркалом, в котором бы отражались как позитивные, так и негативные тенденции. Результатом пребывания в дурной компании является развитие самомнения, тогда как в благоприятном обществе у человека развивается способность к состраданию. 
+For people who aspire to the realization of spiritual values, such a community takes the form of an organic fellowship that gathers around a spiritual teacher with developed fourth and fifth chakras. Bad company usually gathers around a charismatic leader with a dominant third chakra. The player and the comrades around him strive to emulate their teacher and integrate what the teacher gives into their personality.
 
-Хорошая компания является существенным фактором для развития игрока. Здесь он получает возможность вырасти из своих прежних отождествлений в атмосфере поддержки, доверия и сострадания. Остатки проблем, создаваемых влиянием первых двух чакр, постепенно исчезают по мере того, как игрок учится им противостоять и управлять всеми аспектами своей личности. 
+In good company, vices are not cultivated. The players, with the help of the teacher, try to serve as a mirror for each other, which would reflect both positive and negative trends. The result of being in bad company is the development of conceit, while in a favorable society a person develops the capacity for compassion.
 
-Хорошая компания является позитивным аспектом стремления к самоотождествлению и самоутверждению, свойственного для третьей чакры. На пути игрока больше нет преград к четвертому уровню игры, плану космического разума и равновесия.
+Good company is essential for player development. Here he gets the opportunity to grow out of his former identifications in an atmosphere of support, trust and compassion. The remnants of the problems created by the influence of the first two chakras gradually disappear as the player learns to resist them and control all aspects of his personality.
+
+Good company is a positive aspect of the desire for self-identification and self-affirmation, inherent in the third chakra. There are no more obstacles on the way of the player to the fourth level of the game, the plane of cosmic intelligence and balance.

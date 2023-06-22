@@ -1,12 +1,13 @@
 ---
-description: По одну сторону от Вайкунтха-локи находится лока Рудры, а по другую — лока Брахмы. Вместе они образуют триаду Брахмы, Вишну и Шивы в центре высшего ряда игральной доски.
+description: On one side of the Vaikuntha Loka is the Rudra Loka, and on the other side is the Brahma Loka. Together they form the triad of Brahma, Vishnu and Shiva in the center of the top row of the playing board.
 ---
-# План 69. План Абсолюта (Брахма-лока)
 
+# Plan 69. Plan of the Absolute (Brahma-loka)
 
 ---
-По одну сторону от Вайкунтха-локи находится лока Рудры, а по другую — лока Брахмы. Вместе они образуют триаду Брахмы, Вишну и Шивы в центре высшего ряда игральной доски. Этот план выше всех планов творения — как семи главных, так и всех остальных, обозначенных или не обозначенных на игральной доске. Основным элементом здесь также служит махат. Укрепившиеся в истине обитают здесь, не испытывая страха перед последующим возвращением к исполнению кармических ролей. Сюда же приходят практикующие милосердие, в обители Брахмы они пребывают, не ведая страха. 
 
-Брахма — творец материального мира, активный принцип ноумена, сила, преобразующая сознание в бесчисленные формы и отражения. Его обитель — Брахма-лока. Игрок, достигающий этого места, сливается с этой абсолютной силой, этим тонким принципом. Брахма — организатор материи, определяющий законы развития для создаваемых форм. 
+On one side of the Vaikuntha loka is the Rudra loka, and on the other side is the Brahma loka. Together they form the triad of Brahma, Vishnu and Shiva in the center of the top row of the playing board. This plane is above all the planes of creation, the seven major planes as well as all the others, marked or not marked on the game board. Mahat also serves as the main element here. Those who are firmly rooted in the truth live here without fear of a subsequent return to fulfilling karmic roles. Practitioners of mercy also come here, they stay in the abode of Brahma without fear.
 
-Несмотря на то что Брахма-лока расположена рядом с планом Космического Сознания, Брахма не может дать игроку освобождение. Игра должна продолжаться. Брахма определяет форму игры, но здесь есть что-то еще, помимо формы. Только Истина может привести игрока к освобождению. А теперь три гуны ожидают его впереди, и змея, соответствующая тамогуне, рано или поздно возвращает игрока к Матери-Земле. Он опускается до уровня шестой чакры, однако теперь он вооружен пониманием принципов игры, приобретенным в Брахма-локе. И это может помочь ему достичь своей цели, на земле. Путь духовной преданности ждет его на расстоянии одного броска игральной кости.
+Brahma is the creator of the material world, the active principle of the noumenon, the force that transforms consciousness into countless forms and reflections. His abode is Brahma-loka. The player who reaches this place merges with this absolute power, this subtle principle. Brahma is the organizer of matter, determining the laws of development for the created forms.
+
+Even though the Brahma Loka is located next to the Cosmic Consciousness plane, Brahma cannot give the player liberation. The game must go on. Brahma determines the form of the game, but there is more to it than the form. Only Truth can lead the player to liberation. And now the three gunas are waiting for him ahead, and the snake corresponding to the tamo gun sooner or later returns the player to Mother Earth. He descends to the level of the sixth chakra, but now he is armed with an understanding of the principles of the game acquired in Brahma-loka. And this can help him achieve his goal, on earth. The path of spiritual devotion awaits him at a distance of one roll of a die.

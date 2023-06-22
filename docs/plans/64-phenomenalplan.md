@@ -1,24 +1,25 @@
 ---
-description: В «Бхагавад-Гите» Шри Кришна говорит о двойственной природе пракрити - она одновременно проявленна и божественна. Проявленная пракрити — это материальный мир, состоящий из элементов — земли, воды, огня, воздуха и эфира (акаши), а также ума (манаса), интеллекта (буддхи) и эго (ахамкары).
+description: In the Bhagavad Gita, Sri Krishna speaks of the dual nature of prakriti - it is both manifest and divine. Manifested prakriti is the material world, consisting of the elements - earth, water, fire, air and ether (akash), as well as mind (manas), intellect (buddhi) and ego (ahamkara).
 ---
-# План 64. Феноменальный план (пракрити-лока)
 
+# Plan 64. Phenomenal plane (prakriti-loka)
 
 ---
-В «Бхагавад-Гите» Шри Кришна говорит о двойственной природе пракрити: она одновременно проявленна и божественна. Проявленная пракрити — это материальный мир, состоящий из элементов — земли, воды, огня, воздуха и эфира (акаши), а также ума (манаса), интеллекта (буддхи) и эго (ахамкары). Таковы восемь грубых проявлений пракрити. Божественная пракрити —это Майя-Шакти. После описания восьмеричного проявления пракрити Кришна говорит Арджуне: «Знай и мою другую пракрити, высшую, жизнь всего сущего, поддерживающую этот мир». 
 
-Это неизменная пракрити, воля Всевышнего, непреходящая и вечная. Эта пракрити находится за пределами семи лок, за пределами акаши. Элемент, из которого состоит этот план, — это махат, из него возникают все остальные элементы, ум, интеллект и эго. Маха означает «великий», а т —это сокращение от слова таттва, или «элемент». Таким образом, махат — это маха-таттва, великий элемент, дающий начало восьми другим элементам. 
+In the Bhagavad Gita, Sri Krishna speaks of the dual nature of prakriti: it is both manifest and divine. Manifested prakriti is the material world, consisting of the elements - earth, water, fire, air and ether (akash), as well as mind (manas), intellect (buddhi) and ego (ahamkara). These are the eight gross manifestations of prakriti. Divine prakriti is Maya-Shakti. After describing the eightfold manifestation of prakriti, Krishna says to Arjuna: "Know also my other prakriti, the highest, the life of all that exists, which supports this world."
 
-Из этого понятно, что грубое, материальное существование рождается от божественной пракрити. После завершения процесса творения, по мере эволюции индивидуального «я», или человеческой личности, начинается обратный процесс: «я» стремится вернуться к своему источнику. В этом процессе игрок начинает с физического плана, которого он достиг в своем путешествии от тонкого к грубому, и постепенно, благодаря карме и духовной дисциплине, он пересекает семь миров. Если он оказывается способным преодолеть тамас, то достигает пракрити-локи. 
+This is the unchanging prakriti, the will of the Supreme, imperishable and eternal. This prakriti is beyond the seven lokas, beyond the akasha. The element of which this plane is composed is mahat, from which all other elements arise, mind, intellect and ego. Maha means "great" and t is short for tattva, or "element." Thus mahat is maha-tattva, the great element that gives rise to the other eight elements.
 
-Путешествуя по семи уровням, игрок сталкивается с различными проявлениями пракрити. Но, поднимаясь над ними, он приобретает новый опыт и перспективу, способность видеть то, что лежит за поверхностью чувственно воспринимаемого мира, — изначальную пракрити. Каждый объект содержит в себе определенную идею. Объект, не содержащий идеи, пуст, так же как идея, не воплотившаяся в объекте, — бесплодна. Получив надлежащий чувственный опыт, игрок теперь подходит к миру идей. И его пониманию открывается источник всего творения. 
+From this it is clear that the gross, material existence is born from the divine prakriti. After the completion of the creation process, as the individual "I" or human personality evolves, the reverse process begins: the "I" seeks to return to its source. In this process, the player starts from the physical plane, which he reached in his journey from the subtle to the gross, and gradually, through karma and spiritual discipline, he crosses the seven worlds. If he is able to overcome tamas, then he reaches prakriti-loka.
 
-В санскрите слово пракрити означает исходную форму предмета, начало, источник, материальную причину, вещество, из которого состоят все другие вещи, а также женское, материнское начало. Пракрити — это энергия в ее изначальной форме. Это энергия и сознание, слитые воедино в растворенном, недифференцированном состоянии. Из этого состояния начинается процесс уплотнения энергий, процесс проявления, рождающий все большее и большее разнообразие. Из этого уплотненного состояния энергия проявляет себя в трех измерениях: 
+Traveling through seven levels, the player encounters various manifestations of prakriti. But, rising above them, he acquires a new experience and perspective, the ability to see what lies beyond the surface of the sensually perceived world - the original prakriti. Each object contains a certain idea. An object that does not contain an idea is empty, just as an idea that is not embodied in an object is sterile. Having received the proper sensory experience, the player now approaches the world of ideas. And the source of all creation is revealed to his understanding.
 
-1. Материальное содержание (инерция, скрытый потенциал), образующее тело феномена. 
+In Sanskrit, the word prakriti means the original form of an object, the beginning, the source, the material cause, the substance of which all other things are composed, as well as the feminine, maternal principle. Prakriti is energy in its original form. It is energy and consciousness merged into one in a dissolved, undifferentiated state. From this state begins the process of densification of energies, the process of manifestation, giving birth to more and more diversity. From this condensed state, energy manifests itself in three dimensions:
 
-2. Действие и взаимодействие в процессе развития. 
+1. Material content (inertia, latent potential) that forms the body of the phenomenon.
 
-3. Внутренняя цель феномена — ноумен. 
+2. Action and interaction in the process of development.
 
-Пересекая план реальности, игрок достигает пракрити-локи, и перед ним предстают три гуны и пять элементов в своей наиболее чистой, сущностной форме.
+3. The internal goal of the phenomenon is the noumenon.
+
+Crossing the plane of reality, the player reaches prakriti-loka, and the three gunas and five elements appear before him in their most pure, essential form.

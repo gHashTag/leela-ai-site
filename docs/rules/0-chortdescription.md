@@ -1,29 +1,29 @@
 ---
-description: Игрок начинает игру с клетки №1. Чтобы «войти» в игру (продвинуться по игровому полю), игрок должен выбросить «6» на кубике. На выброс шестерки дается бесконечное число попыток. При выпадении «6» игрок передвигается на клетку 6.
+description: The player starts the game in square 1. To "enter" the game (move across the playing field), the player must roll a "6" on the die. An infinite number of attempts are given to throw a six. When a "6" is rolled, the player moves to cell 6.
 ---
 
-# Краткое описание
+# Short description
 
 ---
 
-Жизнь — это Игра, в которой каждый из нас исполняет свою роль. Эту игру в Индии называют Лилой, а играет в нее наше Высшее «Я», создающее весь мир имен и форм. Перед нами — действующая модель этой Игры, созданная в глубокой древности и дошедшая до нас через Хариша Джохари (перевод: Сергей Лакатош), знатока и хранителя индийской мистической традиции. Йоги, исследовавшие лабиринты человеческого сознания, установили существование 72 изначальных состояний бытия. Эти состояния соответствуют клеткам игральной доски Лилы — «периодической системы элементов сознания». В рамках этих состояний каждый игрок действует в соответствии со своей кармой, причем игра заканчивается лишь тогда, когда игрок полностью проникает в ее смысл, достигнув Космического Сознания. Игрок бросает кость, позволяя силам кармы определить его следующее положение на доске. Он проходит через различные планы бытия, поднимаясь по стрелам и опускаясь вместе со змеями, стремясь постичь намерение своего Высшего «Я» везде, куда бы он ни попал.
+Life is a game in which each of us plays a role. This game in India is called Lila, and our Higher Self plays it, creating the whole world of names and forms. Before us is the working model of this Game, created in ancient times and has come down to us through Harish Johari (translation: Sergey Lakatosh), an expert and keeper of the Indian mystical tradition. Yogis who explored the labyrinths of human consciousness established the existence of 72 primordial states of being. These states correspond to the cells of Lila's playing board, the "periodic system of the elements of consciousness." Within these states, each player acts in accordance with his karma, and the game ends only when the player fully penetrates into its meaning, having reached the Cosmic Consciousness. The player rolls the die, allowing the forces of karma to determine their next position on the board. He passes through the various planes of existence, ascending the arrows and descending with the snakes, seeking to comprehend the intention of his Higher Self wherever he goes.
 
-Если вы впервые столкнулись с этой игрой – отнеситесь к ней со всей серьёзностью. Чем более уважительно вы отнесётесь к игре, тем сильнее будет ваша практика. Благоговение к цели и средствам развития необходимо для любого духовного роста и данная игра – не исключение.
+If this is your first time encountering this game, take it seriously. The more respectful you are to the game, the stronger your practice will be. Reverence for the purpose and means of development is necessary for any spiritual growth, and this game is no exception.
 
-Игра должна быть закончена. Вступив в игру, нужно выйти из неё, слившись с Космическим сознанием. Если вы бросаете играть и остаётесь на каком-то поле, то… неужели и впрямь вы хотите остановиться в продвижении на данном уровне? Жизнь течёт дальше, а вы по-прежнему будете оставаться на том же поле. Именно поэтому игру стоит проходить до конца.
+The game must be over. Having entered the game, you need to get out of it, merging with the Cosmic consciousness. If you quit playing and stay on some field, then… do you really want to stop progressing at that level? Life goes on, and you will still remain on the same field. That is why the game is worth playing to the end.
 
-Игровое поле поделено на 8 рядов по 9 клеток в каждой, итого 72 клетки.
+The playing field is divided into 8 rows of 9 cells each, for a total of 72 cells.
 
-Вступить в игру могут только зарегистрированные пользователи.
+Only registered users can join the game.
 
-В качестве фишки на игровом поле выступает предмет, принадлежащий игроку, тесно связывая вас с игрой.
+An item belonging to the player acts as a token on the playing field, closely linking you to the game.
 
-Игрок начинает игру с клетки №1. Чтобы «войти» в игру (продвинуться по игровому полю), игрок должен выбросить «6» на кубике. На выброс шестерки дается бесконечное число попыток. При выпадении «6» игрок передвигается на клетку 6.
+The player starts the game from cell number 1. To "enter" the game (move across the playing field), the player must roll a "6" on the die. An infinite number of attempts are given to throw a six. When a "6" is rolled, the player moves to cell 6.
 
-Каждой клетке соответствует свое описание, которое характеризует настоящее положение игрока и его жизненную ситуацию. Свои переживания этого положения и свои мысли игрок должен описать после каждого хода.
+Each cell has its own description, which characterizes the current position of the player and his life situation. The player must describe his experiences of this situation and his thoughts after each move.
 
-Фишка игрока перемещается по игровому полю последовательно, по клеткам, по мере возрастания номеров клеток. Фишка перемещается на то количество клеток, которое выпало на кубике в последний раз. При попадании на клетку с началом стрелы фишка перемещается по стреле вверх на клетку с окончанием стрелы. При попадании на клетку с головой змеи фишка перемещается по змее вниз на клетку с хвостом змеи.
+The player's chip moves across the playing field sequentially, by cells, as the cell numbers increase. The chip moves to the number of cells that fell on the die for the last time. When hitting a cell with the beginning of an arrow, the chip moves along the arrow up to the cell with the end of the arrow. When hitting a cell with a snake's head, the token moves along the snake down to the cell with the snake's tail.
 
-Когда игрок уже «вошел» в игру (уже как минимум встал на клетку №6), при выпадении на кубике «6» , после передвижения фишки, игрок должен кинуть кубик еще раз (ход при этом не считается законченным). Если за ход игрок выбросил ТРИ и более раз «6», он должен кидать кубик до тех пор, пока не выкинет цифру, отличную от «6»; после этого фишка игрока возвращается на клетку, откуда был начат этот ход, и продвигается на то число, выпавшее в последний раз на кубике, заканчивая ход.
+When the player has already “entered” the game (already at least stood on cell No. 6), when a “6” rolls on the die, after moving the chip, the player must roll the die again (the move is not considered completed). If a player rolls THREE or more times "6" in a turn, he must roll the die until he rolls a number other than "6"; after that, the player's chip returns to the cell from which this move was started, and advances by the number that fell last on the die, ending the move.
 
-Цель игры (и ее окончание) - попадание на клетку 68.
+The goal of the game (and its end) is to hit cell 68.

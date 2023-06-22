@@ -1,12 +1,13 @@
 ---
-description: Зависть является первой змеей на игральной доске. Она жалит игрока, возвращая его на первый уровень к плану жадности и всем остальным свойствам первой чакры.
+description: Envy is the first snake on the board. It stings the player, returning them to the first level of the plane of greed and all other properties of the first chakra.
 ---
-# План 12. Зависть (ирасъя)
 
+# Plan 12. Envy (irasya)
 
 ---
-Зависть является первой змеей на игральной доске. Она жалит игрока, возвращая его на первый уровень к плану жадности и всем остальным свойствам первой чакры. Попадая на клетку зависти, игрок испытывает недостаток уверенности в себе и, чтобы пересилить свои желания, прибегает к стратегии, характерной для первой чакры. Эта змея снова и снова жалит игрока, заставляя его возвращаться вниз, что служит очищению его мышления в процессе игры. 
 
-В игре жизни энергия движется в направлении снизу вверх. Игрок стремится покинуть нижние планы и достичь вершины, отворачиваясь от проблем, с которыми ему приходится сталкиваться внизу. 
+Envy is the first snake on the board. It stings the player, returning them to the first level of the plane of greed and all other properties of the first chakra. When placed on the cell of envy, the player experiences a lack of self-confidence and, in order to overpower his desires, resorts to a strategy characteristic of the first chakra. This snake stings the player again and again, causing them to go back down, which serves to clear their mind during the game.
 
-Однако такая позиция противоречит одному из важнейших принципов игры, поскольку игрок должен играть, гармонично исполняя свою роль как вверху, так и внизу, куда бы ни вела его игральная кость кармы. Однако никто не хочет оставаться внизу. Когда вибрации игрока становятся негармоничными, он попадает под влияние змей и падает к нижним планам. Все его перемещения вверх и вниз определяются числом, которое он выбросит на кости. Когда человек попадает под влияние зависти, его энергия направляется вниз. По стечению кармических обстоятельств он попал на план второй чакры, но реально он не заслуживает того, чтобы оставаться здесь. Фактически он не может остаться на этом плане из-за негативных вибраций, оставшихся в его личности. В такие моменты игрок завидует тем, кто способен пребывать на высших планах, не теряя равновесия. Зависть и является той негативной реакцией, которая приводит к падению игрока на уровень первой чакры, где ему предстоит осознать и отработать новые элементы своей негативной кармы.
+In the game of life, energy moves from the bottom up. The player strives to leave the lower planes and reach the top, turning away from the problems that he has to face below.
+
+However, such a position is contrary to one of the most important principles of the game, since the player must play harmoniously fulfilling his role both above and below, wherever his karma die leads. However, no one wants to stay down. When the vibrations of the player become inharmonious, he falls under the influence of the snakes and falls to the lower planes. All his movements up and down are determined by the number he rolls on the dice. When a person falls under the influence of envy, his energy goes down. By coincidence of karmic circumstances, he fell into the second chakra plane, but he really does not deserve to stay here. In fact, he cannot remain on this plane because of the negative vibrations left in his personality. At such moments, the player envies those who are able to stay on higher planes without losing balance. Envy is the negative reaction that causes the player to fall to the level of the first chakra, where he will have to realize and work out new elements of his negative karma.

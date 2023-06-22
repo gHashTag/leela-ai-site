@@ -1,14 +1,15 @@
 ---
-description: Раджогуна — это активность в сознании, или активное сознание. Игрока, достигшего восьмого ряда, но потерпевшего неудачу в попытке реализовать Космическое Сознание, увлекают вперед силы кармы, деятельности.
+description: Rajoguna is activity in consciousness, or active consciousness. The player who has reached the eighth row, but has failed in his attempt to realize the Cosmic Consciousness, is carried forward by the forces of karma, activity.
 ---
-# План 71. Раджогуна
 
+# Plan 71. Rajogun
 
 ---
-Раджогуна — это активность в сознании, или активное сознание. Игрока, достигшего восьмого ряда, но потерпевшего неудачу в попытке реализовать Космическое Сознание, увлекают вперед силы кармы, деятельности. Эта деятельность является причиной всех страданий, она предполагает наличие деятеля, неизбежно падающего жертвой своих амбиций и ожидания плодов от деятельности. Любое препятствие на пути к желанной цели порождает боль и страдание. Преобладание раджогуны неизбежно ведет к боли и агонии. 
 
-В самадхи игрок растворяет раджогуну в саттвагуне и становится чистым светом — саттвой. Сохранение раджогуны препятствует вхождению в самадхи, и тамас увлекает игрока обратно к Земле, поскольку карма включает в себя и порождает новые частоты вибраций, которые, приобретая форму, становятся предметом игры. 
+Rajoguna is activity in consciousness or active consciousness. The player who has reached the eighth row, but has failed in his attempt to realize the Cosmic Consciousness, is carried forward by the forces of karma, activity. This activity is the cause of all suffering, it presupposes the presence of a doer who inevitably falls victim to his ambitions and expectation of the fruits of activity. Any obstacle on the way to the desired goal gives rise to pain and suffering. The predominance of rajoguna inevitably leads to pain and agony.
 
-Как гуна, раджогуна уравновешивает саттву и тамас. Саттва и тамас являются крайними проявлениями энергии в форме гун и стремятся доминировать одна над другой. Раджас устанавливает равновесие крайностей, без которого этот мир наслаждения и боли, имен и форм не мог бы существовать. Ни одна из гун не может существовать сама по себе. 
+In samadhi, the player dissolves rajoguna into sattvaguna and becomes pure light - sattva. The persistence of the rajoguna prevents entry into samadhi, and tamas draws the player back to Earth as karma incorporates and generates new vibrational frequencies, which, as they take shape, become the subject of play.
 
-Раджогуна преобладает от трех часов после восхода до вечера, когда солнце начинает садиться. В течение этого периода все на земле становится активным, все включается в деятельность, направленную на поддержание жизни. Раджогуш обращает внимание человека на внешний мир; если же оно направлено вовнутрь, раджогуна становится внутренним диалогом. Без преобразования тамаса в саттву высшие состояния сознания недостижимы. Все же человек может оставаться в саттве и во время деятельности, используя раджогуну в саттвичной работе.
+As a guna, rajoguna balances sattva and tamas. Sattva and tamas are the extreme manifestations of energy in the form of gunas and tend to dominate one over the other. Rajas establishes a balance of extremes, without which this world of pleasure and pain, names and forms could not exist. None of the gunas can exist by itself.
+
+Rajoguna prevails from three hours after sunrise until the evening when the sun begins to set. During this period, everything on earth becomes active, everything is included in activities aimed at maintaining life. Rajogush draws a person's attention to the outside world; if it is directed inwards, rajoguna becomes an internal dialogue. Without the transformation of tamas into sattva, the higher states of consciousness are unattainable. Yet one can remain in sattva during activities by using rajoguna in sattvic work.

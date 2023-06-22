@@ -1,12 +1,13 @@
 ---
-description: Вода холодна по своей природе, она поглощает жар, принося прохладу. Жар подвижничества шестой чакры, аскезы, делает игрока жестоким.
+description: Water is cold in nature, absorbing heat, bringing coolness. The heat of asceticism of the sixth chakra, austerities, makes the player cruel.
 ---
-# План 53. План жидкостей (джала-лока)
 
+# Plan 53. Plan of Fluids (Jala Loka)
 
 ---
-Вода холодна по своей природе, она поглощает жар, принося прохладу. Жар подвижничества шестой чакры, аскезы, делает игрока жестоким. Ему необходимо пройти через чистые воды жидкого плана, чтобы погасить горящую энергию насилия и превратить ее в ровное тепло духовной любви. 
 
-Вода — один из пяти элементов — является связующим веществом бытия. Человеческое тело состоит в основном из воды. В засушливых районах, где вода находится глубоко в недрах или ее нет вообще, земля становится хрупкой и потрескавшейся, и мы называем ее песком. Песок не удерживает воду. Она быстро протекает сквозь песок, потому что отдельные песчинки не в состоянии удержать влагу. Земля становится бесплодной, почти лишенной жизни. Вода, таким образом, отвечает также и за плодородие земли и рост растений. Движущей силой самого роста служит жар, огонь. Именно он создает цвет и форму, вода же добавляет стабильность. Вода связывает воедино форму и является энергией, которой питается огонь. Таким образом, огонь, питающийся водой, и дает земле жизненную энергию, которая проявляется в различных формах жизни, существующих на поверхности планеты. 
+Water is cold in nature, it absorbs heat, bringing coolness. The heat of asceticism of the sixth chakra, austerities, makes the player cruel. He needs to pass through the clear waters of the liquid plane in order to extinguish the burning energy of violence and turn it into the even warmth of spiritual love.
 
-Вода не имеет собственной формы, она принимает форму сосуда, в котором находится. Это также является основным свойством игрока шестой чакры — способность становиться тем, что противоречит эго. Настоящая игра начинается, когда игрок теряет свою индивидуальность как игрок. До шестой чакры и появления способности становиться бесформенным игрок находился в плену у денег, секса, власти, кармы и поиска знаний. Игра начинается в шестой чакре, когда знание уже получено, а иллюзия отождествления игрока с формой рассеялась.
+Water, one of the five elements, is the binder of being. The human body consists mainly of water. In arid regions, where water is deep or non-existent, the earth becomes brittle and cracked, and we call it sand. Sand does not hold water. It flows quickly through the sand, because individual grains of sand are not able to retain moisture. The earth becomes barren, almost devoid of life. Water is thus also responsible for the fertility of the earth and the growth of plants. The driving force of growth itself is heat, fire. It is he who creates color and shape, while water adds stability. Water binds together the form and is the energy that feeds the fire. Thus, fire, fed by water, gives the earth vital energy, which manifests itself in various forms of life that exist on the surface of the planet.
+
+Water does not have its own form, it takes the form of the vessel in which it is located. This is also the main property of the sixth chakra player - the ability to become that which is contrary to the ego. The real game begins when the player loses his identity as a player. Before the sixth chakra and the emergence of the ability to become formless, the player was a prisoner of money, sex, power, karma and the search for knowledge. The game begins in the sixth chakra, when knowledge has already been obtained, and the illusion of identifying the player with the form has dissipated.

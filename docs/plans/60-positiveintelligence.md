@@ -1,16 +1,17 @@
 ---
-description: Субуддхи — это правильное понимание, которое приходит только с достижением плана реальности. После того как игрок достиг сатья-локи, его сознание становится совершенным и свободным от двойственности и он постигает Божественное во всех формах и явлениях этого мира.
+description: Subuddhi is the right understanding that comes only with reaching the plane of reality. After the player has reached Satya Loka, his consciousness becomes perfect and free from duality, and he comprehends the Divine in all forms and phenomena of this world.
 ---
-# План 60. Позитивный интеллект (субуддхи)
 
+# Plan 60 Positive Intelligence (Subuddhi)
 
 ---
-Субуддхи — это правильное понимание, которое приходит только с достижением плана реальности. После того как игрок достиг сатья-локи, его сознание становится совершенным и свободным от двойственности и он постигает Божественное во всех формах и явлениях этого мира. Такое сознание и есть субуддхи. 
 
-Пока игрок находится в теле, интеллект играет свою роль. Он распознает, выделяет и оценивает. В седьмой чакре эти оценочные суждения больше не относятся к внешнему миру, а направлены вовнутрь для различения природы внутренней реальности игрока. Каждое суждение производит изменение в химических процессах тела. Эти состояния известны как чувства. 
+Subuddhi is the right understanding that comes only with the attainment of the plane of reality. After the player has reached Satya Loka, his consciousness becomes perfect and free from duality, and he comprehends the Divine in all forms and phenomena of this world. This consciousness is subuddhi.
 
-Когда игрок достигает Космического Сознания, его символ на игральной доске (который представляет его тело) теряет свое значение. Но до тех пор, пока он не достигнет поля 68, четыре аспекта сознания — буддхи, манас, читта и ахамкара — продолжают работать. Ахамкара в своем негативном проявлении становится эгоизмом. Буддхи также принимает позитивную и негативную форму. Читта остается в постоянном действии и взаимодействует с тремя гунами. 
+As long as the player is in the body, the intellect plays its role. He recognizes, highlights and evaluates. In the seventh chakra, these value judgments no longer refer to the outside world, but are directed inward to discern the nature of the player's inner reality. Each judgment produces a change in the chemical processes of the body. These states are known as feelings.
 
-Пока игрок не достиг плана реальности, буддхи не является самостоятельно существующим явлением. То же справедливо и для ахамкары. После опыта самадхи, полученного в седьмой чакре, и осознания, возникающего из непосредственного восприятия сути явлений, буддхи начинает анализировать полученный опыт. И здесь возможны как позитивное, так и негативное направления. 
+When a player reaches Cosmic Consciousness, their symbol on the game board (which represents their body) loses its meaning. But until he reaches field 68, the four aspects of consciousness - buddhi, manas, chitta and ahamkara - continue to work. Ahamkara in its negative manifestation becomes selfishness. Buddhi also takes on positive and negative forms. The chitta remains in constant action and interacts with the three gunas.
 
-Позитивные вибрации субуддхи достигаются следованием пути Дхармы — на клетке Дхармы, где начинается стрела, ведущая на этот план. Позитивный интеллект в соединении с потоком Дхармы игрока — это два наиболее могущественных средства в игре, помогающих игроку в поисках освобождения.
+Until the player has reached the plane of reality, buddhi is not a self-existing phenomenon. The same is true for ahamkara. After the experience of samadhi received in the seventh chakra, and the realization arising from the direct perception of the essence of phenomena, buddhi begins to analyze the experience. And here both positive and negative directions are possible.
+
+Positive vibrations of subuddhi are achieved by following the path of Dharma - on the cell of Dharma, where the arrow begins, leading to this plane. Positive intelligence combined with the player's Dharma flow are two of the most powerful tools in the game to assist the player in their quest for liberation.

@@ -1,26 +1,27 @@
 ---
-description: Теджа означает «свет, сияние». В Упанишадах говорится о четырех состояниях сознания, или «Я».
+description: Teja means "light, radiance". The Upanishads speak of four states of consciousness, or "I".
 ---
-# План 58. План сияния (теджа-лока)
 
+# Plan 58. Plan of Radiance (Teja Loka)
 
 ---
-Теджа означает «свет, сияние». В Упанишадах говорится о четырех состояниях сознания, или «Я». Перечислим их: 
 
-1. Состояние бодрствования, или джаграт, в котором «Я» известно как вайшванара. 
+Teja means "light, radiance". The Upanishads speak of four states of consciousness, or "I". Let's list them:
 
-2. Состояние сновидения, или свапна, в котором форма сознания называется теджас - «полное света», или «состоящее из света». 
+1. The state of wakefulness or jagrat, in which the Self is known as Vaishvanara.
 
-3. Состояние глубокого сна без сновидений, называемое сушупти, в котором сознание называется праджня. 
+2. The state of dreaming, or swapna, in which the form of consciousness is called tejas - "full of light", or "consisting of light."
 
-4. Измененное состояние сознания, называемое турийя, — состояние, которое нельзя назвать ни сознательным, ни бессознательным. В этом состоянии сознанием является Брахман, или Космическое Сознание. 
+3. The state of deep dreamless sleep called sushupti, in which consciousness is called prajna.
 
-Теджа — это свет, который был сотворен в начале. Мир, который мы воспринимаем в бодрствующем состоянии, — это мир явлений и форм, феноменальный мир, пресуществующий в свете (теджа), из которого он материализуется. Этот мир похож на мир наших сновидений, но не является им. Это состояние полностью «сделано» из света. Изображения, которые мы видим на фотографиях, выглядят точно так же, как и реальные люди, но на самом деле они являются различными формами света, создающими иллюзию реальности. Теджас, впрочем, связан с астральным (сукшма) телом, которое составлено из света и в котором игрок пребывает, когда видит сны. 
+4. An altered state of consciousness called turiya, a state that is neither conscious nor unconscious. In this state, consciousness is Brahman, or Cosmic Consciousness.
 
-Сиять означает излучать свет. Омкара —это звук. После звука появляется воздух, вайю-лока. А после воздуха появляется огонь, теджа, тонкий элемент, отвечающий за созидание всех форм творения. Огонь не может существовать без воздуха, так же как и игрок не может достичь теджа-локи, если он сначала не пройдет через план воздуха. 
+Teja is the light that was created in the beginning. The world that we perceive in the waking state is the world of appearances and forms, the phenomenal world, pre-existing in the light (teja) from which it materializes. This world is similar to the world of our dreams, but it is not. This state is completely "made" of light. The images we see in photographs look exactly like real people, but they are actually different forms of light that create the illusion of reality. Tejas, however, is associated with the astral (sukshma) body, which is made up of light and in which the player resides when he dreams.
 
-Каждое вещество имеет точку воспламенения — температуру, при которой оно загорается в присутствии кислорода. Теплота — это возбуждение молекул. Чем быстрее движутся молекулы, тем больше жар. Огонь возникает, когда это движение слишком быстро, чтобы материальная форма могла выдержать его. По мере того как игрок поднимается все выше и выше, возрастает уровень его собственных вибраций. В седьмой чакре он достигает сущности вибраций. Затем, когда его вибрации достигают определенного предела, он проходит через план воздуха и загораегся сияющим пламенем, дарящим свет всем, кто окружает его. 
+Shine means to radiate light. Omkara is sound. After the sound comes air, vayu-loka. And after air comes fire, teja, a subtle element responsible for the creation of all forms of creation. Fire cannot exist without air, just as the player cannot reach teja loka unless he first passes through the plane of air.
 
-Когда игрок достигает плана сияния, он освещает своим светом весь мир. Существует множество звезд, но лишь немногие сверкают достаточно ярко, чтобы мы могли их видеть. В каждой солнечной системе существует свое солнце. Именно на этом плане игрок становится просветленным. Он превращается в солнце и собирает вокруг себя астральные тела, необходимые для образования законченной солнечной системы. 
+Every substance has a flash point, the temperature at which it ignites in the presence of oxygen. Heat is the excitation of molecules. The faster the molecules move, the greater the heat. Fire occurs when this movement is too fast for the material form to sustain it. As the player rises higher and higher, the level of his own vibrations increases. In the seventh chakra he reaches the essence of vibrations. Then, when its vibration reaches a certain limit, it passes through the plane of air and ignites with a radiant flame that gives light to all who surround it.
 
-К плану сияния не ведет ни одна из стрел, и его невозможно достичь непосредственно с нижележащих планов. Игрок должен двигаться к нему медленно и постепенно, если только он не достигнет окончательного освобождения, практикуя духовную преданность.
+When the player reaches the plane of radiance, he illuminates the whole world with his light. There are many stars, but only a few sparkle bright enough for us to see. Each solar system has its own sun. It is on this plane that the player becomes enlightened. He turns into the sun and collects around him the astral bodies necessary for the formation of a complete solar system.
+
+None of the arrows lead to the plane of radiance, and it cannot be reached directly from the underlying planes. The player must move towards it slowly and gradually, unless he achieves final liberation by practicing spiritual devotion.

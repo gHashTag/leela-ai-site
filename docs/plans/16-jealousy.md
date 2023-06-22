@@ -1,10 +1,11 @@
 ---
-description: Он начинает подозревать других людей, когда их действия расходятся с его представлениями о самом себе. В любовных взаимоотношениях он становится ревнивым и боится неверности.
+description: He becomes suspicious of other people when their actions are at odds with his self-image. In love relationships, he becomes jealous and fears infidelity.
 ---
-# План 16. Ревность (двеша)
 
+# Plan 16. Jealousy (dvesha)
 
 ---
-Он начинает подозревать других людей, когда их действия расходятся с его представлениями о самом себе. В любовных взаимоотношениях он становится ревнивым и боится неверности. Его сомнения растут, и вскоре его энергия возвращается к первой чакре, где он попадает в сети жадности. Вскормленная неуверенностью в себе, ревность приносит плод потери ощущения надежности, безопасности, а это является основной чертой, характерной для первой чакры. Недостаток уверенности в себе ведет также к неприязни к себе, которая затем проецируется ноше как неприязнь по отношению к другим. 
 
-Чтобы восстановить уверенность в себе, игроку теперь придется пройти через опыт первой чакры, где он может разобраться с ее причинами и повысить свои вибрации.
+He becomes suspicious of other people when their actions are at odds with his idea of himself. In love relationships, he becomes jealous and fears infidelity. His doubts grow and soon his energy returns to the first chakra, where he is caught in the web of greed. Nurtured by self-doubt, jealousy bears the fruit of a loss of a sense of security, and this is the main feature characteristic of the first chakra. Lack of self-confidence also leads to self-hatred, which is then projected onto the burden as dislike towards others.
+
+To regain self-confidence, the player will now have to go through the experience of the first chakra, where they can deal with its causes and raise their vibrations.

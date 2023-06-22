@@ -1,16 +1,17 @@
 ---
-description: Равновесие химии тела и психики — это и есть счастье. Сукха, или счастье, является состоянием, которого игрок достигает посредством различения (вивеки) или воспевания Ом, достижения самадхи и сохранения позитивной направленности интеллекта.
+description: The balance of body and mind chemistry is happiness. Sukha, or happiness, is the state that the player achieves by discerning (viveka) or chanting Om, achieving samadhi, and maintaining a positive intellect.
 ---
-# План 62. Счастье (сукха)
 
+# Plan 62 Happiness (sukha)
 
 ---
-Равновесие химии тела и психики — это и есть счастье. Сукха, или счастье, является состоянием, которого игрок достигает посредством различения (вивеки) или воспевания Ом, достижения самадхи и сохранения позитивной направленности интеллекта. 
 
-Счастье, или сукха, приходит к игроку, когда его сознание говорит ему, что он очень близок к цели, давая ему уверенность в том, что он приближается к освобождению. Чувства, которые он испытывает, непередаваемы, их не описать словами. Он чувствует счастье, которое испытывает река, соединяясь с океаном после путешествия длиной в тысячу миль. Это ощущение слияния со своим источником. 
+The balance of body and mind chemistry is happiness. Sukha, or happiness, is the state that the player achieves by discerning (viveka) or chanting Om, achieving samadhi, and maintaining a positive intellect.
 
-Если, пребывая в таком счастливом состоянии, игрок не станет пренебрегать своей кармой, не станет ленивым и пассивным, у него есть реальный шанс достичь Космического Сознания в течение этой жизни. Но если он настолько ошеломлен переживанием счастья, что забывает о необходимости действовать, чувствуя, что его миссия близка к концу, змея тамаса, затаившаяся рядом с ним, готова проглотить его, возвращая его энергию к уровню первой чакры. 
+Happiness, or sukha, comes to the player when his mind tells him that he is very close to the goal, giving him confidence that he is getting closer to liberation. The feelings that he experiences are indescribable, they cannot be described in words. He feels the happiness that the river feels when it joins the ocean after traveling a thousand miles. It is the feeling of merging with your source.
 
-Нумерология игры говорит нам, что для достижения своей цели ему снова нужно выбросить шестерку, так же как он нуждался в шестерке для того, чтобы родиться и войти в игру. Но если он становится ленивым, если ему кажется, что нет больше ничего, что нужно было бы сделать, — здесь скрываются тамас и иллюзия.Истинное счастье принадлежит игроку, сохраняющему равновесие при приближении к цели. Игра важна как целое. Его стабильный интеллект дает ему возможность ясно видеть форму потока, течение Дхармы. Он принимает все, что преподносит ему жизнь. Нет ничего, что бы он отвергнул. Даже если он достиг 8-го плана и должен снова вернуться на землю, он все равно счастлив, зная о цели, которая может быть им достигнута.
+If, being in such a happy state, the player does not neglect his karma, does not become lazy and passive, he has a real chance to achieve Cosmic Consciousness during this lifetime. But if he is so overwhelmed by the experience of happiness that he forgets the need to act, feeling that his mission is close to the end, the snake of tamas, lurking near him, is ready to swallow him, returning his energy to the level of the first chakra.
 
-Истинное счастье принадлежит игроку, сохраняющему равновесие при приближении к цели. Игра важна как целое. Его стабильный интеллект дает ему возможность ясно видеть форму потока, течение Дхармы. Он принимает все, что преподносит ему жизнь. Нет ничего, что бы он отвергнул. Даже если он достиг 8-го плана и должен снова вернуться на землю, он все равно счастлив, зная о цели, которая может быть им достигнута.
+The numerology of the game tells us that in order to achieve his goal, he again needs to roll a six, just as he needed a six in order to be born and enter the game. But if he becomes lazy, if it seems to him that there is nothing more to be done, then tamas and illusion are hidden here. True happiness belongs to the player who maintains balance while approaching the goal. The game is important as a whole. His stable intellect enables him to clearly see the form of the flow, the flow of Dharma. He accepts everything that life presents him. There is nothing that he would reject. Even if he has reached the 8th plane and has to return to earth again, he is still happy knowing about the goal that can be achieved by him.
+
+True happiness belongs to the player who maintains balance while approaching the goal. The game is important as a whole. His stable intellect enables him to clearly see the form of the flow, the flow of Dharma. He accepts everything that life presents him. There is nothing that he would reject. Even if he has reached the 8th plane and has to return to earth again, he is still happy knowing about the goal that can be achieved by him.

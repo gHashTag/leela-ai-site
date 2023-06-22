@@ -1,14 +1,15 @@
 ---
-description: Кармы-действия, ведущие к возвышению уровня вибраций, известны как добродетели; те же, что снижают частоту вибраций, —как пороки. Благотворительность является человеческой добродетелью, существующей на уровне третьей чакры.
+description: Action karmas that lead to vibrational elevation are known as virtues; those that reduce the frequency of vibrations are like vices. Charity is a human virtue that exists at the level of the third chakra.
 ---
-# План 20. Благотворительность (дана)
 
+# Plan 20. Charity (dana)
 
 ---
-Кармы-действия, ведущие к возвышению уровня вибраций, известны как добродетели; те же, что снижают частоту вибраций, —как пороки. Благотворительность является человеческой добродетелью, существующей на уровне третьей чакры. Она поднимает игрока над проблемами этого уровня, и он перемещается на один шаг вверх к плану равновесия, расположенному на уровне сердечной чакры. 
 
-Эта добродетель является одним из проявлений Божественного начала в человеке, сущности его сознания. Попадая на это поле, игрок отождествляет себя с Божественным, присутствующим во всем, и совершает действия, направленные на благо других, без ожидания какой-либо выгоды для себя. 
+Karmas-actions leading to an elevation of the level of vibrations are known as virtues; those that reduce the frequency of vibrations are like vices. Charity is a human virtue that exists at the level of the third chakra. It lifts the player above the problems of this level, and he moves one step up to the plane of balance located at the level of the heart chakra.
 
-Эти действия наполняют игрока радостью, сопровождающей подъем энергий к более высоким уровням. Именно поэтому все религии, известные человечеству, всегда указывали на исключительную важность таких действий и включали их в свои ритуалы. Реальность нужд других людей и желание делиться —эти два фактора вступают в работу на данном уровне игры. 
+This virtue is one of the manifestations of the Divine principle in man, the essence of his consciousness. Entering this field, the player identifies himself with the Divine, present in everything, and performs actions aimed at the benefit of others, without expecting any benefit for himself.
 
-Благотворительность удовлетворяет развивающееся эго и освобождает игрока от оков третьей чакры. Благотворительность является одной из важнейших вех в прохождении плана кармы. Это сила, мотивирующая одно из самых возвышенных направлений деятельности человека в обществе, представляющая собой сплав сострадания с характерной для третьей чакры склонностью к организации.
+These actions fill the player with the joy that accompanies the rise of energies to higher levels. That is why all religions known to mankind have always pointed out the exceptional importance of such actions and included them in their rituals. The reality of other people's needs and the desire to share are two factors that come into play at this level of the game.
+
+Charity satisfies a developing ego and frees the player from the shackles of the third chakra. Charity is one of the most important milestones in the passage of the plane of karma. This is the force that motivates one of the most exalted directions of human activity in society, which is a combination of compassion with the propensity to organize characteristic of the third chakra.

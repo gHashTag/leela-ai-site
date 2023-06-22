@@ -1,20 +1,21 @@
 ---
-description: Все существующее в феноменальном мире не есть реальность. Объекты восприятия изменяются с течением времени, они развиваются, растут и разрушаются.
+description: Everything that exists in the phenomenal world is not reality. Objects of perception change over time, they develop, grow and collapse.
 ---
-# План 46 Различение (вивека)
 
+# Plan 46 Discrimination (Viveka)
 
 ---
-Все существующее в феноменальном мире не есть реальность. Объекты восприятия изменяются с течением времени, они развиваются, растут и разрушаются. Но эти объекты чувственного восприятия создают полную иллюзию реальности. Человек придает большое значение объективному миру и у него развивается желание отождествляться с объектами чувственного восприятия. Вивека, или различение, — это сила, которая спасает его от впадения в желание привязанности к материальному. Это голос внутренней мудрости игрока, который позволяет ему отличать тонкое от грубого, видеть ноумен в каждом феномене. 
 
-Вивека не могла появиться в игре раньше. Игрок может попасть сюда, лишь пройдя через поле правильного знания (45). Если игрок попадает на стрелу правильного знания, он немедленно поднимается к плану космического блага. В противном случае ему приходится прибегнуть к способности различения, чтобы определить дальнейший ход игры. 
+Everything that exists in the phenomenal world is not reality. Objects of perception change over time, they develop, grow and collapse. But these objects of sensory perception create a complete illusion of reality. A person attaches great importance to the objective world and develops a desire to identify with objects of sense perception. Viveka or discrimination is the power that saves him from falling into the desire for material attachment. This is the voice of the player's inner wisdom, which allows him to distinguish the subtle from the gross, to see the noumenon in every phenomenon.
 
-Основные элементы мира явлений находятся на уровнях до пятой чакры. Это кирпичики, составляющие основу для всех грубых проявлений. Присутствие этих элементов определяет уровень вибраций игрока, пока его действия исходят из этих чакр. Но шестая чакра находится за пределами этих элементов. Теперь проявленная майя лишь в незначительной степени влияет на сознание игрока. 
+Viveca could not appear in the game earlier. The player can get here only by passing through the field of correct knowledge (45). If the player hits the arrow of right knowledge, he immediately ascends to the plane of cosmic good. Otherwise, he has to resort to the faculty of discrimination in order to determine the further course of the game.
 
-Когда игрок попадает на поле различения, он немедленно переносится к плану счастья, расположенному в седьмой чакре. В седьмой чакре игрок находится за пределами всех видов насилия, что и служит причиной истинного счастья. Но здесь пока еще шестая чакра, и здесь необходимо различение. Шестую чакру традиционно называют «третьим глазом». Два наших глаза видят только то, что существует, — что было в прошлом и что есть в настоящем. А «третий глаз» дает силу различать будущие возможности в игре, и это одно из ценных свойств шестой чакры: способность проникновения в будущее. Причем это не фантазия, а прямое восприятие того, что будет. 
+The basic elements of the world of phenomena are at levels up to the fifth chakra. These are the building blocks that form the basis for all gross manifestations. The presence of these elements determines the vibrational level of the player as long as his actions come from these chakras. But the sixth chakra is outside of these elements. Now the manifested maya only slightly affects the player's consciousness.
 
-Различение-вивека — это не что-то такое, что развивается в нас в течение одной мимолетной жизни. Оно пользуется опытом, накопленным поколениями больших масс людей и содержащимся в коллективном бессознательном. Таким образом, игрок имеет в своем распоряжении хранилище опыта, который теперь находится на осознаваемом уровне. 
+When a player enters the field of discernment, they are immediately transported to the plane of happiness located in the seventh chakra. In the seventh chakra, the player is beyond all kinds of violence, which is the cause of true happiness. But the sixth chakra is still here, and discrimination is needed here. The sixth chakra is traditionally called the "third eye". Our two eyes see only what exists, what was in the past and what is in the present. And the "third eye" gives the power to discern future opportunities in the game, and this is one of the valuable properties of the sixth chakra: the ability to penetrate into the future. And this is not a fantasy, but a direct perception of what will happen.
 
-Различение — это учитель, который находится на макушке каждого игрока (в седьмой чакре) и ведет его по жизни. Игрок может обходить социальные и политические законы, но убежать от голоса вивеки в конечном счете невозможно. 
+Viveka discrimination is not something that develops in us in one fleeting lifetime. It uses the experience accumulated by generations of large masses of people and contained in the collective unconscious. Thus, the player has at his disposal a repository of experience, which is now at a conscious level.
 
-Пока игрок не достигнет шестой чакры, слово «различение» мало что для него значит. Но прохождение через шестую чакру определяется падением игральной кости кармы и подсказками внутреннего голоса вивеки.
+Discrimination is the teacher that sits at the top of every player's head (the seventh chakra) and guides them through life. The player can circumvent social and political laws, but escaping the voice of Viveca is ultimately impossible.
+
+Until the player reaches the sixth chakra, the word "discrimination" means little to them. But the passage through the sixth chakra is determined by the fall of the dice of karma and the promptings of the inner voice of Viveka.

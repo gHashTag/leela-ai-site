@@ -1,18 +1,19 @@
 ---
-description: Дхарма — это все, что является истинным, правильным. Это вечно развивающийся, присутствующий повсюду принцип, сила вне времени и пространства, направляющая существование человека.
+description: Dharma is all that is true, right. It is an ever-evolving, ubiquitous principle, a force beyond time and space that guides human existence.
 ---
-# План 22. План Дхармы (Дхарма-лока)
 
+# Plan 22. Plan of Dharma (Dharma-loka)
 
 ---
-Дхарма — это все, что является истинным, правильным. Это вечно развивающийся, присутствующий повсюду принцип, сила вне времени и пространства, направляющая существование человека. Дхарма неизменна, однако ее проявления могут различаться в разных ситуациях. Она пребывает в глубинах реальности, и человек, следующий потоку Дхармы, всегда будет находиться в гармонии с реальностью этого мира. 
 
-Дхарма — это сознательное действие, действие, соответствующее реальности момента. Стараясь действовать сознательно, мы учимся согласовывать наши действия с принципами существования космоса. Итак, Дхарма —это действие, основанное на знании этих принципов. 
+Dharma is everything that is true, right. It is an ever-evolving, ubiquitous principle, a force beyond time and space that guides human existence. Dharma is unchanging, but its manifestations may differ in different situations. It resides in the depths of reality, and a person who follows the flow of Dharma will always be in harmony with the reality of this world.
 
-Существует десять основных правил Дхармы. Это твердость, прощение, самоконтроль, сдержанность, чистота, контроль над органами чувств и органами действия, интеллект, правильное знание, истина и отсутствие гнева. 
+Dharma is conscious action, action according to the reality of the moment. By trying to act consciously, we learn to coordinate our actions with the principles of the existence of the cosmos. So Dharma is action based on the knowledge of these principles.
 
-Все, что вы считаете благом для себя, будет хорошо и для других. Нет Дхармы лучше, чем добрые дела, и нет худшей адхармы, чем причинение вреда. Законы Дхармы наиболее наглядны в приложении к поведению человека, однако эти принципы гораздо шире, чем правила поведения или нормы морали и этики. Они служат лишь отражением более общих, всеобъемлющих законов. 
+There are ten basic Dharma rules. These are firmness, forgiveness, self-control, restraint, purity, control of the senses and organs of action, intellect, right knowledge, truth and the absence of anger.
 
-Дхарма огня — сжигать, а Дхарма воды — утолять жажду. Вода в соответствии со своей Дхармой создает вкус, а огонь —цвета и формы. Дхарма — это внутренняя сущностная природа вещи или явления. Следуя Дхарме, игрок поднимается к высшим планам, но стоит ему отклониться — и энергия начинает опускаться, увлекая его за собой. Стрелы на игральной доске представляют собой элементы Дхармы, или добродетели, а змеи — элементы адхармы, или пороки. 
+Whatever you think is good for yourself will be good for others. There is no Dharma better than good deeds, and there is no worse adharma than doing harm. The laws of Dharma are most visible when applied to human behavior, but these principles are much broader than rules of conduct or norms of morality and ethics. They serve only as a reflection of more general, comprehensive laws.
 
-Таким образом, Дхарма неизменна и пребывает вне форм, принимая ту или иную форму для каждого игрока. Для человека, живущего в холодном климате, Дхармой будет одевать теплые вещи; Дхарма голодного — принять пищу. Для ученика Дхарма — медитировать и следовать садхане, или духовной дисциплине. Дхарма ребенка — свободная игра без забот о духовном мире. Дхарма взрослого — стремление и утверждение себя в мире духа. Дхарма — это истина, поддерживающая правильные отношения между всеми элементами творения. Дхарма — это леса, окружающие строящееся здание личности. Пока строение не закончено, леса поддерживают его структуру. Но когда постройка уже может поддерживать себя сама, леса разбираются и используются для создания новых, еще неустойчивых строений.
+The Dharma of fire is to burn, and the Dharma of water is to quench thirst. Water, in accordance with its Dharma, creates taste, and fire creates colors and forms. Dharma is the inner essential nature of a thing or phenomenon. Following the Dharma, the player rises to higher planes, but as soon as he deviates, the energy begins to descend, dragging him along. The arrows on the game board represent the elements of Dharma, or virtue, and the snakes, the elements of adharma, or vices.
+
+Thus, the Dharma is immutable and is beyond form, taking one form or another for each player. For a person living in a cold climate, the Dharma would be to wear warm clothes; The dharma of the hungry is to eat. For a Dharma student, it is to meditate and follow sadhana or spiritual discipline. The dharma of a child is free play without worries about the spiritual world. The dharma of an adult is the aspiration and assertion of oneself in the world of the spirit. Dharma is the truth that maintains the right relationship between all the elements of creation. Dharma is the scaffolding surrounding the edifice of personality under construction. Until the building is completed, scaffolding supports its structure. But when the building can already support itself, the scaffolding is dismantled and used to create new, still unstable buildings.

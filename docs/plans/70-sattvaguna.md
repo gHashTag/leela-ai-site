@@ -1,22 +1,23 @@
 ---
-description: Сат означает «истина». Достигнув освобождения, человек видит истину лишь в Космическом Сознании.
+description: Sat means "truth". Having achieved liberation, a person sees the truth only in the Cosmic Consciousness.
 ---
-# План 70. Саттвагуна
 
+# Plan 70. Sattvaguna
 
 ---
-Сат означает «истина». Достигнув освобождения, человек видит истину лишь в Космическом Сознании. Но та же истина, будучи связанной с игральной костью кармы, становится подверженной действию трех гун, трех первичных аспектов сознания (гуна означает «качество, свойство»). Свойство и качество присуще игроку, все еще связанному с игрой. 
 
-Истина — это сущность творения. Но в любом существующем объекте или явлении проявляется действие гун. Истина не может существовать сама по себе, она немедленно поглощается Космическим Сознанием. Однако игра еще не окончена — кольцо, символ игрока, находится на поле. Именно благодаря действию гун сознание проявляет себя вплоть до конца игры. Игрок должен вернуться на Землю к ее играм, причем и то, и другое — продукт работы гун. 
+Sat means truth. Having achieved liberation, a person sees the truth only in the Cosmic Consciousness. But the same truth, being connected with the dice of karma, becomes subject to the action of the three gunas, the three primary aspects of consciousness (guna means "quality, property"). The property and quality is inherent in the player still associated with the game.
 
-Саттва сама по себе создает состояние равновесия. Активность необходима, а материя должна быть активизирована. Саттвагуна является синонимом таких понятий, как свет, сущность, истинная природа и высшие уровни вибраций. Спокойное, невозмутимое состояние медитации, ведущее к самадхи, реализуется, когда преобладает саттва. 
+Truth is the essence of creation. But in any existing object or phenomenon, the action of the gunas is manifested. Truth cannot exist by itself, it is immediately absorbed by the Cosmic Consciousness. However, the game is not over yet - the ring, the player's symbol, is on the field. It is through the action of the gunas that consciousness manifests itself until the end of the game. The player must return to Earth for her pastimes, both of which are the product of the work of the gunas.
 
-Все существующее содержит и саттву, и раджас, и тамас, так что не бывает ничего, окрашенного цветом лишь одной гуны. Пока существуют различные формы, сотворенные Брахмой, присутствуют все три гуны. Впрочем, в разные моменты они могут находиться в различных пропорциях. 
+Sattva itself creates a state of balance. Activity is necessary, and matter must be activated. Sattvaguna is synonymous with concepts such as light, essence, true nature and higher levels of vibration. A calm, unruffled state of meditation leading to samadhi is realized when sattva prevails.
 
-В состоянии бодрствования преобладает раджас, в то время как саттва находится на втором плане, создавая основу для проявления знания и понимания, позволяющих игроку действовать в соответствии со своей ролью. 
+Everything that exists contains both sattva and rajas and tamas, so that there is nothing colored by the color of only one guna. As long as there are various forms created by Brahma, all three gunas are present. However, at different times they can be in different proportions.
 
-Состояние сновидения также в основном окрашено раджасом, и сновидящее «я» может получить свой урок от саттвы. Наши сны наполнены светом, мы не видим тьмы, а этот свет исходит от саттвы. В сновидении происходит очищение, в этом состоянии мы не связаны законами физической реальности. Игрок пребывает в своем астральном теле, за пределами тела физического, соединенного с астральными саттвичными связями. 
+In the waking state, rajas predominates while sattva takes a back seat, creating the basis for the manifestation of knowledge and understanding, allowing the player to act in accordance with his role.
 
-В глубоком сне без сновидений преобладает тамас. 
+The dream state is also mostly tinged with rajas, and the dreaming self can learn its lesson from sattva. Our dreams are filled with light, we do not see darkness, and this light comes from sattva. In a dream, purification occurs, in this state we are not bound by the laws of physical reality. The player resides in his astral body, outside the physical body, connected to astral sattvic connections.
 
-В состоянии неосознающего сознания, известного как турийя или самадхи, игрок находится в чистой саттве. Освобождение от влияния гун делает человека реализованным существом, гунатитом (дословно это означает «за пределами гун»). Гуны служат динамическими силами, преобразующими первичную материю в процессе творения и приступающими к своей работе в начале каждого цикла творения. Они никогда не бывают отделены одна от другой, действуя вместе и преобразуясь друг через друга. Саттва в процессе творения становится тамасом, создавая вибрации звука, прикосновения, зрительных образов, вкуса и запаха. Преобразующей силой является раджас. При эволюции сознания тамас становится саттвой тем же самым путем — через раджас. Саттва сама по себе не активна и не способна к изменениям без помощи раджаса. На земле саттва преобладает на рассвете и в последующие три часа.
+In deep dreamless sleep, tamas predominates.
+
+In a state of unconscious consciousness known as turiya or samadhi, the player is in pure sattva. Liberation from the influence of the gunas makes a person a realized being, gunatit (literally, this means "beyond the gunas"). The gunas serve as dynamic forces that transform primary matter in the process of creation and begin their work at the beginning of each cycle of creation. They are never separated from each other, acting together and being transformed through each other. Sattva in the process of creation becomes tamas, creating vibrations of sound, touch, visual images, taste and smell. Rajas is the transforming force. With the evolution of consciousness, tamas becomes sattva in the same way - through rajas. Sattva itself is not active and is not capable of change without the help of rajas. On earth, sattva prevails at dawn and for the next three hours.

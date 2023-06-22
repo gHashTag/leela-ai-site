@@ -1,24 +1,25 @@
 ---
-description: В санскрите слово тамас означает «тьма», «темный». Темнота —это отсутствие света. Свет — это знание, тьма — неведение; неведение — это низший ум.
+description: In Sanskrit, the word tamas means "darkness", "dark". Darkness is the absence of light. Light is knowledge, darkness is ignorance; ignorance is the lower mind.
 ---
-# План 63. Тамас
 
+# Plan 63. Tamas
 
 ---
-В санскрите слово тамас означает «тьма», «темный». Темнота —это отсутствие света. Свет — это знание, тьма — неведение; неведение — это низший ум. В санскрите есть также второе значение этого слова — «змея». Тамас является змеей тьмы, самой длинной змеей в игре, которая безжалостно стаскивает игрока в иллюзию из сияния плана реальности. 
 
-В седьмой чакре тамас является неведением, которое возникает из привязанности к чувственному восприятию. Это неведение приходит после того, как игрок реализует состояние счастья и думает, что это конец необходимости исполнения кармы. Но здесь игрок еще не может остановить всю карму. От поля счастья высшая карма — это шесть очков, низшая — одно. Действие не может прекратиться полностью. 
+In Sanskrit, the word tamas means "darkness", "dark". Darkness is the absence of light. Light is knowledge, darkness is ignorance; ignorance is the lower mind. In Sanskrit, there is also a second meaning of this word - "snake". Tamas is the snake of darkness, the longest snake in the game, which relentlessly pulls the player into an illusion from the radiance of the plane of reality.
 
-Тамас — полная капитуляция перед иллюзией. Игрок теряет из виду никогда не заканчивающуюся природу игры. Он забыл, что до тех пор, пока он не достигнет освобождения, игра не окончена. Бездействие является попыткой избежать закона кармы. Карма же — это Дхарма в действии. Игрок, находящийся в состоянии тамаса, забывает, что игра не останавливается на седьмом уровне и что, достигнув самадхи, он еще не достиг освобождения. Когда движение вверх замедляется, оно, тем не менее, должно продолжаться, а единственное направление от высшей чакры — вниз. Самая длинная змея в игре ожидает игрока, пренебрегающего своей кармой. В любом действии работают три фактора. 
+In the seventh chakra, tamas is the ignorance that arises from attachment to sense perception. This ignorance comes after the player realizes the state of happiness and thinks that this is the end of the need to fulfill karma. But here the player cannot stop all karma yet. From the field of happiness, the highest karma is six points, the lowest is one. The action cannot stop completely.
 
-Первый — Дхарма, сущность действия. 
+Tamas is complete surrender to illusion. The player loses sight of the never ending nature of the game. He forgot that until he reaches liberation, the game is not over. Inaction is an attempt to avoid the law of karma. Karma is Dharma in action. A player in a state of tamas forgets that the game does not stop at the seventh level and that, having achieved samadhi, he has not yet achieved liberation. When the upward movement slows down, it must still continue, and the only direction from the higher chakra is down. The longest snake in the game awaits a player who neglects his karma. There are three factors at work in any action.
 
-Второй — это карма, само действие. 
+The first is Dharma, the essence of action.
 
-Третий — бездействие, инерция, сопротивление. 
+The second is karma, the action itself.
 
-Вследствие природы игры бездействие направляет поток энергии вниз. Карма неизбежна. Попытка избежать ее сама по себе является кармой, действием. Попытка избежать кармы является кармой, которая тянет игрока вниз на второе поле игры, в иллюзию. 
+The third is inaction, inertia, resistance.
 
-Тамас является синонимом состояния глубокого сна. Когда органы чувств совершенно отключаются и сознание погружается в сон, игрок в этом состоянии ничем не лучше трупа, даже если он еще дышит. В медитации, когда вся активность ума совершенно останавливается и чувственное восприятие направлено вовнутрь, игроку очень просто соскользнуть из саттвического состояния недеяния в сновидение, оканчивающееся глубоким сном. 
+Due to the nature of the game, inactivity directs the flow of energy downward. Karma is inevitable. Trying to avoid it is itself karma, action. Trying to avoid karma is karma that pulls the player down to the second field of the game, into the illusion.
 
-Именно поэтому поле тамаса находится на седьмом уровне игры. Именно здесь тамас становится змеей. На более низких планах тамас был необходим игроку. Но здесь, на плане медитации, которая является одной из форм недеяния, тамас — это змея, которая полностью меняет течение потока энергии, приводя игрока к падению обратно в иллюзию. Тамас является атрибутом тамогуны, ее проявлением в микрокосме. Когда та же сила обсуждается как атрибут пракрити в восьмом ряду игры, она называется тамогуной.
+Tamas is synonymous with the state of deep sleep. When the sense organs are completely disabled and the consciousness sinks into sleep, the player in this state is no better than a corpse, even if he is still breathing. In meditation, when all activity of the mind is completely stopped and sensory perception is directed inward, it is very easy for the player to slip from the sattvic state of non-action into a dream ending in deep sleep.
+
+That is why the field of tamas is on the seventh level of the game. This is where tamas becomes a snake. On the lower planes, tamas was necessary for the player. But here, on the plane of meditation, which is a form of non-action, tamas is a snake that reverses the flow of energy, causing the player to fall back into illusion. Tamas is an attribute of tamoguna, its manifestation in the microcosm. When the same power is discussed as an attribute of prakriti in the eighth row of the game, it is called tamoguna.

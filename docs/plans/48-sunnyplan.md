@@ -1,20 +1,21 @@
 ---
-description: В шестой чакре игрок устанавливает равновесие между мужским, солнечным принципом и женским, лунным.
+description: In the sixth chakra, the player strikes a balance between the masculine, solar principle and the feminine, lunar principle.
 ---
-# План 48. Солнечный план (ямуна)
 
+# Plan 48. Solar plan (yamuna)
 
 ---
-В шестой чакре игрок устанавливает равновесие между мужским, солнечным принципом и женским, лунным. Это гармоничное слияние элементов создает «я» наблюдателя, которое не является ни мужским, ни женским, а представляет собой гармоничное сочетание того и другого. 
 
-Солнечный план —это план мужской энергии. Пока игрок чувствует себя или мужчиной, или женщиной, он не в состоянии принять противоположную природу в себе самом, так же как ни один из игроков на поле не в состоянии оценивать свои собственные действия, поскольку его привязанность к игре и своей роли в ней исключает возможность объективного восприятия. В то же время человек, выступающий в роли судьи, находясь за пределами игры, свободен от какой-либо личной заинтересованности. Он не связан ни с одной из команд. Он —независимый наблюдатель, который в состоянии видеть ошибки и нарушения правил, совершаемые игроками. 
+In the sixth chakra, the player establishes a balance between the male, solar principle and the female, lunar. This harmonious fusion of elements creates an observer self that is neither masculine nor feminine, but a harmonious combination of both.
 
-Когда игрок, чьи вибрации находятся на уровне низших чакр, оказывается затронутым солнечным планом, его первым порывом становится разрушение, сила, самоотождествление. Слишком сильный солнечный свет мог бы сжечь всю планету. Чтобы уравновесить Солнце, нужна Луна. Игрок, который попадает сюда, пройдя через поля мудрости и правильного знания, понимает это и учится уравновешивать потоки своих энергий. 
+The solar plane is the masculine energy plane. As long as the player feels he is either a man or a woman, he is not able to accept the opposite nature in himself, just as no player on the field is able to evaluate his own actions, since his attachment to the game and his role in it excludes the possibility objective perception. At the same time, a person acting as a referee, being outside the game, is free from any personal interest. He is not affiliated with any of the teams. He is an independent observer who is able to see the mistakes and violations of the rules committed by the players.
 
-Ниже шестой чакры солнечная и лунная энергии переплетены друг с другом, здесь же они сливаются и становятся единым целым. Это ощущение единого целого характеризует план аскетизма. 
+When a player whose vibrations are at the level of the lower chakras is affected by the solar plan, his first impulse is destruction, strength, self-identification. Too much sunlight could burn the entire planet. To balance the Sun, the Moon is needed. The player who gets here, having passed through the fields of wisdom and correct knowledge, understands this and learns to balance the flows of his energies.
 
-Чтобы лучше понять природу солнечной и лунной энергии и их функцию в организме человека, можно рассмотреть следующий пример с электрической батарейкой. Как и батарейка, человеческие существа имеют анод и катод, положительный и отрицательный полюса. Когда оба они помещены в раствор, способный проводить ток, возникает электричество. Анод заряжен положительно и обычно делается из меди. Медь —красного цвета, это солнечный металл, который ассоциируется с огненным знаком Марса. Для катода используется цинк — лунный металл, блестящего бело-голубого цвета. Электрические заряды собираются вокруг анода. Он символизирует электрический (мужской) принцип в организме человека. 
+Below the sixth chakra, the solar and lunar energies are intertwined with each other, but here they merge and become one. This feeling of a single whole characterizes the plane of asceticism.
 
-В теле человека нерв пингала — это то же, что ямуна, солнечный план. Солнечная энергия непосредственно связана с правой ноздрей. Когда в дыхании доминирует правая ноздря, преобладает пингала, что связано с легкими изменениями течения биохимических процессов, дыхания и пульса. Пингала служит источником энергии для всех творческих действий. Когда человек находится под ее влиянием, медитация становится невозможной. В йогических техниках пранаямы часто предписывается «солнечное дыхание». Это означает просто дыхание через правую ноздрю. 
+To better understand the nature of solar and lunar energy and their function in the human body, consider the following example of an electric battery. Like a battery, human beings have an anode and a cathode, positive and negative poles. When both are placed in a solution capable of conducting current, electricity is produced. The anode is positively charged and is usually made of copper. Copper is red in color and is a solar metal associated with the fire sign of Mars. For the cathode, zinc is used - a lunar metal, of a brilliant white-blue color. Electric charges are collected around the anode. It symbolizes the electrical (male) principle in the human body.
 
-Ямуна (Джамна) — это одна из трех священных рек, которые встречаются в Праяг-Радже (нынешнем Аллахабаде), что в провинции Уттар-Прадеш, на севере Индии. У берегов Ямуны родился Кришна.
+In the human body, the pingala nerve is the same as the yamuna, the solar plane. Solar energy is directly related to the right nostril. When the right nostril dominates in breathing, pingala predominates, which is associated with slight changes in the course of biochemical processes, respiration and pulse. Pingala is the source of energy for all creative activities. When one is under its influence, meditation becomes impossible. In yogic pranayama techniques, "solar breathing" is often prescribed. This means simply breathing through the right nostril.
+
+The Yamuna (Jamna) is one of the three sacred rivers that meet at Prayag Raj (now Allahabad) in the province of Uttar Pradesh, northern India. Krishna was born off the banks of the Yamuna.

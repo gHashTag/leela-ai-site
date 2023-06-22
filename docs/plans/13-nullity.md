@@ -1,14 +1,15 @@
 ---
-description: Антарикша — это план, расположенный между физическим планом и небесами (сварга-лока). Здесь игрок находится в «подвешенном» состоянии - ни на небе, ни на земле, фактически в ничто. 
+description: Antariksha is the plane located between the physical plane and the heavens (svarga-loka). Here the player is in a "suspended" state - neither in heaven nor on earth, in fact, in nothing.
 ---
-# План 13. Ничтожность (антарикша) 
 
+# Plan 13. Insignificance (antariksha)
 
 ---
-Антарикша — это план, расположенный между физическим планом и небесами (сварга-лока). Здесь игрок находится в «подвешенном» состоянии: ни на небе, ни на земле, фактически в ничто. 
 
-Ничтожность является состоянием, непосредственно связанным с нестабильным негативным интеллектом. Когда игрок перестает осознавать цель своего существования, чувства заброшенности (экзистенциального страха) и тщетности наполняют его сознание. Он не видит никакого смысла в общении с кем-либо. И недостаток жизненной силы, сопровождающийся острейшим чувством внутренней пустоты, заставляет его метаться, не находя себе места. Он находится в постоянной негативности и тревоге. 
+Antariksha is the plane situated between the physical plane and the heavens (svarga-loka). Here the player is in a "suspended" state: neither in heaven nor on earth, in fact, in nothing.
 
-Ничтожность является одной из неотъемлемых черт второй чакры и является причиной нестабильности и беспокойства. Все вокруг теряет смысл. Самоотождествление личности полностью потеряно, и в результате нарушается равновесие ментальной сферы. Все это происходит из-за недостатка энергии, необходимой для гармоничного пребывания на этом плане. Рассеяние жизненной силы в направлении объектов чувств является основной проблемой на уровне второй чакры. Игрок может попасть на клетку ничтожности после первого столкновения с развлечениями, чувственным планом, самомнением или жадностью. Если он приходит сюда из первой чакры, он мог уже испытать радости очищения или развлечений, но небольшой запас энергии, которым он обладал, оказывается растрачен слишком быстро. И теперь он в замешательстве. Цели, которые он ставил перед собой раньше, все еще здесь, но он не видит в них никакого смысла. Он не видит смысла ни в чем. 
+Insignificance is a condition directly related to unstable negative intelligence. When the player ceases to realize the purpose of his existence, feelings of abandonment (existential fear) and futility fill his consciousness. He sees no point in communicating with anyone. And the lack of vitality, accompanied by the sharpest feeling of inner emptiness, makes him rush about, not finding a place for himself. He is in constant negativity and anxiety.
 
-Однако состояние ничтожности отнюдь не вечно. Как только игрок начинает пополнять свои энергетические ресурсы, он оказывается готовым к продолжению игры к тому времени, как приходит его очередь бросать кость.
+Insignificance is one of the inherent features of the second chakra and is the cause of instability and anxiety. Everything around loses its meaning. Self-identification of the personality is completely lost, and as a result, the balance of the mental sphere is disturbed. All this is due to a lack of energy necessary for a harmonious stay on this plane. Diffusion of life force towards sense objects is a major problem at the level of the second chakra. The player can land on a void space after the first encounter with entertainment, the sensual plane, self-importance, or greed. If he comes here from the first chakra, he may have already experienced the joys of purification or entertainment, but the small amount of energy he possessed is wasted too quickly. And now he's confused. The goals he set for himself before are still there, but he sees no point in them. He sees no point in anything.
+
+However, the state of insignificance is by no means eternal. Once the player starts replenishing his energy resources, he is ready to continue playing by the time it is his turn to roll the die.
