@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleela_ai_site=self.webpackChunkleela_ai_site||[]).push([[270],{8965:e=>{e.exports=JSON.parse('{"permalink":"/app/ru/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
