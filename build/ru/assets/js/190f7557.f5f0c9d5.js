@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkleela_ai_site=self.webpackChunkleela_ai_site||[]).push([[3434],{4693:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/app/ru/blog/tags/hola","allTagsPath":"/app/ru/blog/tags","count":1}')}}]);

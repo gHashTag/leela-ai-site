@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkleela_ai_site=self.webpackChunkleela_ai_site||[]).push([[654],{7110:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/app/ru/blog/tags/facebook","allTagsPath":"/app/ru/blog/tags","count":1}')}}]);
