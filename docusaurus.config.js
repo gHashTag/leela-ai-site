@@ -30,9 +30,13 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ru']
+    locales: ['en', 'ru'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB'
+      }
+    }
   },
-
   presets: [
     [
       'classic',
@@ -75,11 +79,16 @@ const config = {
             position: 'left',
             label: 'Docs'
           },
+
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://www.instagram.com/leela.chakra/',
             label: 'Blog',
             position: 'left'
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right'
           }
           // {
           //   href: 'https://github.com/facebook/docusaurus',
