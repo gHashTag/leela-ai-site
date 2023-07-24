@@ -18,8 +18,12 @@ She will help you along the way by providing spiritual advice without limits. Al
 
 ![Leela Ai](/img/1.jpg)
 
-[Leela AI](https://link3.to/6EPQCVC6) combines ancient Vedic teachings and advanced AI technology to create a unique experience of self-discovery. It represents the world of Vedic wisdom in your hands. The uniqueness of [Leela AI](https://link3.to/6EPQCVC6) lies in its ability to provide personalized, in-depth and meaningful answers to your questions and queries, as well as its ability to educate and guide you on your path to self-discovery and spiritual growth. It's not just a mobile app or game, it's your personal guide on a journey of self-discovery.
+[Leela AI](https://link3.to/6EPQCVC6) combines ancient Vedic teachings and advanced AI technology to create a unique experience of self-discovery. It represents the world of Vedic wisdom in your hands.
+
+The uniqueness of [Leela AI](https://link3.to/6EPQCVC6) lies in its ability to provide personalized, in-depth and meaningful answers to your questions and queries, as well as its ability to educate and guide you on your path to self-discovery and spiritual growth. It's not just a mobile app or game, it's your personal guide on a journey of self-discovery.
+
 Unlike many other apps and services, we don't just offer you information or answers, we offer you a unique and personalized experience that is based on ancient wisdom and modern technology.
+
 This is what makes [Leela AI](https://link3.to/6EPQCVC6) unique and special. And that's what has helped us attract and retain a lot of users, searchers and explorers who want to get a deeper understanding of themselves and the world around them.
 
 ## How can I benefit from using Leela AI?
