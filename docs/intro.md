@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Leela AI
 
-![Leela AI](/img/cover.png)
+![Leela AI](/img/coverNew.png)
 
 Know yourself with [Leela AI](https://link3.to/6EPQCVC6) and immerse yourself in Vedic wisdom, opening up new horizons of self-knowledge.
 We present you an updated version of the game [Leela AI](https://link3.to/6EPQCVC6), with artificial intelligence on board, trained according to the Vedic scriptures of Hinduism.

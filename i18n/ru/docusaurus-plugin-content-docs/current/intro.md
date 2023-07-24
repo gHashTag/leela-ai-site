@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Leela Ai
 
-![Leela Ai](/img/cover.png)
+![Leela Ai](/img/coverNew.png)
 
 Познайте себя с [Leela AI](https://link3.to/6EPQCVC6) и погрузитесь в ведическую мудрость открывая новые горизонты самопознания.
 Представляем вам обновлённую версию игры [Leela AI](https://link3.to/6EPQCVC6), с искусственным интеллектом на борту, обученным по ведическим писаниям индуизма.
