@@ -7,6 +7,10 @@ import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import { translate } from "@docusaurus/Translate";
 import cover from "../../static/img/coverNew.png";
 import styles from "./index.module.css";
+import englishment from "@site/static/img/enlighnment.png";
+import { Tokenomics } from "../components/sections/Tokenomics";
+import { TeamList } from "../components/sections/TeamList";
+import { GameRules } from "../components/sections/GameRules";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -39,11 +43,19 @@ export default function Home(): JSX.Element {
 
   return (
     <Layout title={`Hello from ${siteConfig.title}`}>
+      <h1
+        children={"Leela Ai chat with hinduism Goddness"}
+        style={{ textAlign: "center", marginTop: 50 }}
+      />
       <img src={cover} alt="Description of the image"></img>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <Tokenomics />
+        <TeamList />
+        <GameRules />
       </main>
+      <img src={englishment} alt="Description of the image"></img>
     </Layout>
   );
 }

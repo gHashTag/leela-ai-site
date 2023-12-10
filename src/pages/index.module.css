@@ -1,8 +1,17 @@
 /**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
+ * Color variables for light and dark themes
  */
 
+/**
+ * Styles for chart container
+ */
+.chart {
+  width: 60%;
+}
+
+/**
+ * Styles for hero banner
+ */
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -10,12 +19,18 @@
   overflow: hidden;
 }
 
+/**
+ * Responsive styles for smaller screens
+ */
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
   }
 }
 
+/**
+ * Styles for button container
+ */
 .buttons {
   display: flex;
   align-items: center;
