@@ -1,0 +1,75 @@
+/**
+ * Color variables for light and dark themes
+ */
+ :root {
+  --text-color-light: white;
+  --text-color-dark: black;
+}
+
+/**
+ * Styles for dark theme
+ */
+.dark-theme {
+  --legend-text-color: var(--text-color-dark);
+  --label-text-color: var(--text-color-dark);
+}
+
+/**
+ * Styles for light theme
+ */
+.light-theme {
+  --legend-text-color: var(--text-color-light);
+  --label-text-color: var(--text-color-light);
+}
+
+/**
+ * Container styles with transition for background color
+ */
+
+/**
+ * Flex container for chart components
+ */
+ .chartContainer {
+  display: flex;
+  justify-content: space-between;
+  transition: background-color 0.3s ease;
+}
+
+/**
+ * Dark theme background color
+ */
+.dark-theme .chartContainer {
+  background-color: #1c1c1c;
+}
+
+/**
+ * Light theme background color
+ */
+.light-theme .chartContainer {
+  background-color: #ffffff;
+}
+
+
+/**
+ * Styles for legend container
+ */
+.legendContainer {
+  width: 30%;
+}
+
+/**
+ * Styles for chart container
+ */
+.chart {
+  width: 60%;
+}
+
+/**
+ * Styles for hero banner
+ */
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
