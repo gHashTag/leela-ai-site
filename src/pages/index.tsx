@@ -43,11 +43,7 @@ export default function Home(): JSX.Element {
 
   return (
     <Layout title={`Hello from ${siteConfig.title}`}>
-      <h1
-        children={"Leela Ai chat with hinduism Goddness"}
-        style={{ textAlign: "center", marginTop: 50 }}
-      />
-      <img src={cover} alt="Description of the image"></img>
+      <img src={englishment} alt="Description of the image"></img>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
@@ -55,7 +51,6 @@ export default function Home(): JSX.Element {
         <TeamList />
         <GameRules />
       </main>
-      <img src={englishment} alt="Description of the image"></img>
     </Layout>
   );
 }
