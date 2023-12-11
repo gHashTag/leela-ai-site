@@ -116,7 +116,7 @@ There are a number of competitive players in the self-development and personal g
 **Since 2005**, Gaya has been practicing many types of yoga, united by one goal - physical health and peace of mind, continuing her eightfold path of Raja Yoga, conducting **Game Leela** for **10 years** around the world.
 
 <MDXLayout>
-<img src="/img/Gaia.jpg" width="400" height="200" alt="Gaia" />
+<img src="/img/gaia.jpg" width="400" height="200" alt="Gaia" />
 </MDXLayout>
 
 ### Dmitrii Vasiliev - CTO
@@ -159,7 +159,7 @@ You can buy a token now from **Pre-Seed Round**
   <tr>
     <td align="center">
       <a href="">
-        <img src="/img/Gaia.jpg" width="200px" alt=""/>
+        <img src="/img/gaia.jpg" width="200px" alt=""/>
         <br />
         <sub><b>Kamskaia Gaia</b></sub>
       </a>
