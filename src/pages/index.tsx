@@ -43,6 +43,7 @@ export default function Home(): JSX.Element {
 
   return (
     <Layout title={`Hello from ${siteConfig.title}`}>
+      <img src={cover} alt="Description of the image"></img>
       <img src={englishment} alt="Description of the image"></img>
       <HomepageHeader />
       <main>
