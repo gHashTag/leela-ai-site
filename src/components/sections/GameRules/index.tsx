@@ -15,7 +15,7 @@ export function GameRules() {
           ascending with arrows and descending with snakes, striving to
           comprehend the intention of his Higher Self wherever he goes.
         </p>
-        <img src={GameScreen} width={200} />
+        <img src={GameScreen} width={"200 rem"} />
       </div>
     </header>
   );

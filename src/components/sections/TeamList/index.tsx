@@ -16,7 +16,7 @@ export function TeamList() {
           alignSelf: "center",
           justifyContent: "space-between",
           width: "100%", // Чтобы контейнер занимал всю ширину
-          maxWidth: "600px", // Указать нужную максимальную ширину
+          maxWidth: "37.5 rem", // Указать нужную максимальную ширину
           margin: "0 auto", // Центрирование по горизонтали
         }}
       >
@@ -30,15 +30,15 @@ export function TeamList() {
               cursor: instLink ? "pointer" : "default",
               textAlign: "center",
               margin: "0.5em",
-              marginLeft: "30px", // Увеличиваем левый отступ для каждой картинки
+              marginLeft: "1.875 rem", // Увеличиваем левый отступ для каждой картинки
             }}
           >
             <div
               style={{
                 borderRadius: "50%",
                 overflow: "hidden",
-                width: "100px", // Указать нужный размер
-                height: "100px", // Указать нужный размер
+                width: "8em", // Указать нужный размер
+                height: "8em", // Указать нужный размер
                 margin: "0 auto",
               }}
             >
