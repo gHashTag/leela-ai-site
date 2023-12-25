@@ -97,7 +97,7 @@ There are a number of competitive players in the self-development and personal g
 
 ## Road map
 
-**Q1. 2024**
+### Q1. 2024
 
 - Marketing. Interaction with influencers, traffic, ambassador program
 - UI/UX redesign, development of 3D avatar and AI assistant

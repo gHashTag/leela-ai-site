@@ -35,7 +35,6 @@ export function Tokenomics() {
           "#27ae60",
           "#3498db",
           "#e74c3c",
-
           "#2ecc71",
           "#f39c12",
           "#9b59b6",
@@ -73,7 +72,7 @@ export function Tokenomics() {
         className="container"
         style={{ marginBottom: "3.125rem", textAlign: "center" }}
       >
-        <h1>TOKENOMICS</h1>
+        <h1 className="hero__title">TOKENOMICS</h1>
         <div
           style={{
             display: "flex",

@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .content {
+    text-align: center;
+    flex-direction: row;
+  }
+  
+  .imageContainer {
+    display: flex;
+    align-items: center;
+  }
+  
+  .image {
+    flex: 1; /* Distribute available space equally among images */
+    max-width: 100%; /* Set maximum width to the container width */
+    max-height: 30rem; /* Set maximum height as needed */
+    margin-left: 20px; /* Adjust as needed */
+  }
+  
+  /**
+   * Styles for hero banner
+   */
+  .heroBanner {
+    padding: 4rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    padding-right: 5rem;
+    padding-left: 5rem;
+  }
+  

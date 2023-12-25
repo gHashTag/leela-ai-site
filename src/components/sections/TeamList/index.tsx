@@ -2,10 +2,12 @@ import React from "react";
 import { ourTeam } from "@site/static/ourTeam";
 
 export function TeamList() {
+  const middleIndex = Math.floor(ourTeam.length / 2);
+
   return (
     <div className="text-content text-center" style={{ marginBottom: 50 }}>
       <h1
-        className="text-white"
+        className="text-white hero__title"
         style={{ textAlign: "center", marginTop: 50, marginBottom: 50 }}
       >
         Team
@@ -13,14 +15,14 @@ export function TeamList() {
       <div
         className="flex row container"
         style={{
-          alignSelf: "center",
-          justifyContent: "space-between",
-          width: "100%", // Чтобы контейнер занимал всю ширину
-          maxWidth: "37.5 rem", // Указать нужную максимальную ширину
-          margin: "0 auto", // Центрирование по горизонтали
+          display: "flex",
+          justifyContent: "space-around",
+          width: "100%",
+          maxWidth: "37.5rem",
+          margin: "0 auto",
         }}
       >
-        {ourTeam.map(({ name, role, img, instLink }) => (
+        {ourTeam.map(({ name, role, img, instLink }, index) => (
           <figure
             key={name}
             onClick={
@@ -29,16 +31,14 @@ export function TeamList() {
             style={{
               cursor: instLink ? "pointer" : "default",
               textAlign: "center",
-              margin: "0.5em",
-              marginLeft: "1.875 rem", // Увеличиваем левый отступ для каждой картинки
             }}
           >
             <div
               style={{
                 borderRadius: "50%",
                 overflow: "hidden",
-                width: "8em", // Указать нужный размер
-                height: "8em", // Указать нужный размер
+                width: "8em",
+                height: "8em",
                 margin: "0 auto",
               }}
             >
@@ -57,18 +57,13 @@ export function TeamList() {
               <p
                 style={{
                   margin: "0.5em 0 0",
-                  fontFamily: "ProximaNovaBold",
+                  fontSize: "1.7em",
                 }}
                 className="text-white"
               >
                 {name}
               </p>
-              <p
-                style={{ margin: 0, fontSize: "0.8em" }}
-                className="text-white"
-              >
-                {role}
-              </p>
+              <p className="text-white">{role}</p>
             </figcaption>
           </figure>
         ))}
