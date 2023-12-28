@@ -293,5 +293,14 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "howtoplay": {
+    "message": "How to play?"
+  },
+  "howtoplay.desc": {
+    "message": "To enter the game, you need to roll a 6 on the dice. The player rolls the dice, allowing the forces of karma to determine his next position on the board. He passes through the various planes of existence, ascending with arrows and descending with snakes, striving to comprehend the intention of his Higher Self wherever he goes."
+  },
+  "team": {
+    "message": "Team"
   }
 }

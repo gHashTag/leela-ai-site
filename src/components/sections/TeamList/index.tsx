@@ -1,5 +1,6 @@
 import React from "react";
 import { ourTeam } from "@site/static/ourTeam";
+import { translate } from "@docusaurus/Translate";
 
 export function TeamList() {
   const middleIndex = Math.floor(ourTeam.length / 2);
@@ -10,7 +11,9 @@ export function TeamList() {
         className="text-white hero__title"
         style={{ textAlign: "center", marginTop: 50, marginBottom: 50 }}
       >
-        Team
+        {translate({
+          id: "team",
+        })}
       </h1>
       <div
         className="flex row container"
