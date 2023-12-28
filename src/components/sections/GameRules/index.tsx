@@ -18,10 +18,7 @@ export function GameRules() {
             striving to comprehend the intention of his Higher Self wherever he
             goes.
           </p>
-        </div>
-        <div className={styles.imageContainer}>
           <img src={GameScreen} alt="Game Screen" className={styles.image} />
-          <img src={dice} alt="Dice" className={styles.image} />
         </div>
       </div>
     </header>

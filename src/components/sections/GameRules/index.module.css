@@ -1,37 +1,37 @@
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-  }
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  max-width: 100%; /* Set maximum width to the container width */
+  max-height: 30rem; /* Set maximum height as needed */
+  margin-top: 20px; /* Adjust as needed */
+}
+
+@media (min-width: 880px) {
   .content {
-    text-align: center;
     flex-direction: row;
-    flex-wrap: wrap
-  }
-  
-  .imageContainer {
-    display: flex;
-    align-items: center;
   }
   
   .image {
-    flex: 1; /* Distribute available space equally among images */
-    max-width: 100%; /* Set maximum width to the container width */
-    max-height: 30rem; /* Set maximum height as needed */
     margin-left: 20px; /* Adjust as needed */
+    margin-right: 20px;
   }
-  
-  /**
-   * Styles for hero banner
-   */
-  .heroBanner {
-    padding: 4rem 0;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-    padding-right: 5rem;
-    padding-left: 5rem;
+}
+
+@media (max-width: 879px) {
+  .content {
+    flex-direction: column;
   }
-  
+}
