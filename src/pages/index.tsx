@@ -11,6 +11,7 @@ import englishment from "@site/static/img/enlighnment.png";
 import { Tokenomics } from "../components/sections/Tokenomics";
 import { TeamList } from "../components/sections/TeamList";
 import { GameRules } from "../components/sections/GameRules";
+import { RoadMap } from "../components/sections/RoadMap";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -47,9 +48,13 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        {/* <AboutToken /> */}
         <Tokenomics />
         <TeamList />
         <GameRules />
+        <RoadMap />
+        {/* <ProgramSection />  */}
+        {/* <CostSection /> */}
         <img src={englishment} alt="englishment"></img>
       </main>
     </Layout>
