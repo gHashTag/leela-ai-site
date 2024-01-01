@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Leela Ai",
+  title: "Leela Chakra Ai",
   tagline:
-    "Leela AI is an application that is a game of self-knowledge and spiritual development based on Vedic wisdom. Your guide here will be Leela's digital avatar, who will facilitate your path to a deep understanding of the nature of all things.",
+    "Leela Chakra AI is an application that is a game of self-knowledge and spiritual development based on Vedic wisdom. Your guide here will be Leela's digital avatar, who will facilitate your path to a deep understanding of the nature of all things.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -69,9 +69,9 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Leela Ai",
+        title: "Leela Chakra Ai",
         logo: {
-          alt: "Leela Ai Logo",
+          alt: "Leela Chakra Ai Logo",
           src: "img/logo.png",
         },
         items: [
@@ -154,7 +154,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Leela Ai, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Leela Chakra Ai, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
