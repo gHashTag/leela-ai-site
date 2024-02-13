@@ -2,14 +2,14 @@
 description: About the $LEELA token
 ---
 
-# LEELA AI ($LEELA)
+# Leela Chakra Ai ($LEELA)
 
 ---
 
-**Leela Ai ($LEELA)** is a utility **token** that is used in the **Leela Ai** gaming application.
+**Leela Chakra Ai ($LEELA)** is a utility **token** that is used in the **Leela Chakra Ai** gaming application.
 The application automatically deducts **1 $LEELA** from the user's balance with each move made in the game.
 **$LEELA** can be purchased on the exchange or exchanged for other cryptocurrencies.
-This **$LEELA** usage model encourages players to **purchase** and use the **token** within the gaming ecosystem to participate in the game. This could also create additional value for the token itself, as its demand will depend on player activity on the **Leela Ai** app.
+This **$LEELA** usage model encourages players to **purchase** and use the **token** within the gaming ecosystem to participate in the game. This could also create additional value for the token itself, as its demand will depend on player activity on the **Leela Chakra Ai** app.
 
 <MDXLayout>
 <img src="/img/aboutToken1.png" width="300" height="100" alt="$LEELA" />
@@ -81,7 +81,7 @@ There are a number of competitive players in the self-development and personal g
 
 **Online Coaching**: Online coaches and consultants provide personalized guidance.
 
-**Leela stands out for its innovative Leela Ai technology and personalized content that provide a unique self-development experience.**
+**Leela stands out for its innovative Leela Chakra Ai technology and personalized content that provide a unique self-development experience.**
 
 ## Ambassador program
 
@@ -103,7 +103,7 @@ There are a number of competitive players in the self-development and personal g
 - UI/UX redesign, development of 3D avatar and AI assistant
 - Blockchain migration, redevelopment
 - Web 3 mobile application and website
-- Launch of the Leela Ai token
+- Launch of the Leela Chakra Ai token
 
 ![map](../../static/img/map.jpg)
 
@@ -112,7 +112,7 @@ There are a number of competitive players in the self-development and personal g
 ### Gaia Kamskaia - CEO
 
 **She** firmly connects his life with the path of **liberation and enlightenment**.
-**Jnana** yoga teacher, **Leela game** guide and founder of the Leela Ai mobile application.
+**Jnana** yoga teacher, **Leela game** guide and founder of the Leela Chakra Ai mobile application.
 **Since 2005**, Gaya has been practicing many types of yoga, united by one goal - physical health and peace of mind, continuing her eightfold path of Raja Yoga, conducting **Game Leela** for **10 years** around the world.
 
 <MDXLayout>

@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Privacy Policy
 
-This is the privacy policy for the Leela AI app.
+This is the privacy policy for the Leela Chakra Ai app.
 
 ## 1. Collection of information
 
@@ -24,7 +24,7 @@ We apply various security measures to protect the collection, transfer and stora
 
 ## 5. Online Privacy Policy
 
-This privacy policy only applies to our online activities and is valid for visitors to our website and users of our Leela AI app in relation to the information they share and/or collect on the app. This policy does not apply to information collected offline or through channels other than this application.
+This privacy policy only applies to our online activities and is valid for visitors to our website and users of our Leela Chakra Ai app in relation to the information they share and/or collect on the app. This policy does not apply to information collected offline or through channels other than this application.
 
 ## 6. Consent
 
@@ -32,9 +32,9 @@ By using our application, you agree to our privacy policy and accept its terms.
 
 ## 7. Information about the developer
 
-The Leela AI application is developed and maintained by [dao999nft](https://dao999nft.com/). We are constantly working to improve our app and appreciate the feedback from our users.
+The Leela Chakra Ai application is developed and maintained by [dao999nft](https://dao999nft.com/). We are constantly working to improve our app and appreciate the feedback from our users.
 
-The privacy policy is available at [active, visible URL](https://www.leelachakra.com/docs/policy) and is not editable. This policy applies solely to the privacy of users of our Leela AI application.
+The privacy policy is available at [active, visible URL](https://www.leelachakra.com/docs/policy) and is not editable. This policy applies solely to the privacy of users of our Leela Chakra Ai application.
 
 ## 8. Auto-renewing subscriptions
 

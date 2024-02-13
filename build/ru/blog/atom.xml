@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leelachakra.com/ru/blog</id>
-    <title>Leela Ai Blog</title>
+    <title>Leela Chakra Ai Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leelachakra.com/ru/blog"/>
-    <subtitle>Leela Ai Blog</subtitle>
+    <subtitle>Leela Chakra Ai Blog</subtitle>
     <icon>https://leelachakra.com/ru/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>

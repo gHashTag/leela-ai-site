@@ -10,13 +10,13 @@ description: Introduction
 
 Have you ever thought that you can invest in business and at the same time engage in spiritual development?
 
-[Leela Ai](https://tome.app/999-00e/leela-ai-en-clo8c6dum00ujpo7arj9pe2xw) - combines a board game from ancient times of India and its online version in a mobile application. In it, `ChatGPT` acts as a guru leading the player to liberation, which is the goal of the game [Leela Ai](https://tome.app/999-00e/leela-ai-en-clo8c6dum00ujpo7arj9pe2xw).
+[Leela Chakra Ai](https://tome.app/999-00e/leela-ai-en-clo8c6dum00ujpo7arj9pe2xw) - combines a board game from ancient times of India and its online version in a mobile application. In it, `ChatGPT` acts as a guru leading the player to liberation, which is the goal of the game [Leela Chakra Ai](https://tome.app/999-00e/leela-ai-en-clo8c6dum00ujpo7arj9pe2xw).
 
 The MVP application has already brought more than $4,000 in sales.
 
-Leela is a spiritual token that is used in the [Leela Ai game](https://tome.app/999-00e/leela-ai-en-clo8c6dum00ujpo7arj9pe2xw) application.
+Leela is a spiritual token that is used in the [Leela Chakra Ai game](https://tome.app/999-00e/leela-ai-en-clo8c6dum00ujpo7arj9pe2xw) application.
 
-## [Presentation of the Leela Ai application](https://tome.app/999-00e/leela-ai-en-clo8c6dum00ujpo7arj9pe2xw)
+## [Presentation of the Leela Chakra Ai application](https://tome.app/999-00e/leela-ai-en-clo8c6dum00ujpo7arj9pe2xw)
 
 ### [Leela $LEELA tokenomics](https://docs.google.com/spreadsheets/d/1aqujAZzMqKcNpT9ZzjedIOyHJzBecmnCkMpNeg6dsFk)
 
