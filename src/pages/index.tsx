@@ -7,11 +7,11 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures'
 import { translate } from '@docusaurus/Translate'
 import cover from '../../static/img/coverNew.png'
 import styles from './index.module.css'
-import englishment from '@site/static/img/enlighnment.png'
-import { Tokenomics } from '../components/sections/Tokenomics'
-import { TeamList } from '../components/sections/TeamList'
-import { GameRules } from '../components/sections/GameRules'
-import { RoadMap } from '../components/sections/RoadMap'
+// import englishment from '@site/static/img/enlighnment.png'
+// import { Tokenomics } from '../components/sections/Tokenomics'
+// import { TeamList } from '../components/sections/TeamList'
+// import { GameRules } from '../components/sections/GameRules'
+// import { RoadMap } from '../components/sections/RoadMap'
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext()
@@ -36,7 +36,7 @@ function HomepageHeader() {
           <div style={{ margin: '20px' }}></div>
           <Link
             className="button button--secondary button--lg"
-            to="https://play.google.com/store/apps/details?id=com.leelagame"
+            to="https://t.me/leela_chakra_ai_bot"
           >
             {translate({
               id: 'android'
@@ -53,18 +53,19 @@ export default function Home(): JSX.Element {
 
   return (
     <Layout title={`Hello from ${siteConfig.title}`}>
+        <HomepageHeader />
       <img src={cover} alt="cover"></img>
-      <HomepageHeader />
+  
       <main>
         <HomepageFeatures />
         {/* <AboutToken /> */}
-        <Tokenomics />
-        <TeamList />
-        <GameRules />
-        <RoadMap />
+        {/* <Tokenomics /> */}
+        {/* <TeamList />
+        <GameRules /> */}
+        {/* <RoadMap /> */}
         {/* <ProgramSection />  */}
         {/* <CostSection /> */}
-        <img src={englishment} alt="englishment"></img>
+        {/* <img src={englishment} alt="englishment"></img> */}
       </main>
     </Layout>
   )

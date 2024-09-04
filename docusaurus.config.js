@@ -148,8 +148,8 @@ const config = {
                 href: "https://apps.apple.com/ru/app/%D0%B8%D0%B3%D1%80%D0%B0-%D0%BB%D0%B8%D0%BB%D0%B0/id1296604457",
               },
               {
-                label: "Google Play",
-                href: "https://play.google.com/store/apps/details?id=com.leelagame&hl=ru",
+                label: "Telegram Bot",
+                href: "https://t.me/leela_chakra_ai_bot",
               },
             ],
           },

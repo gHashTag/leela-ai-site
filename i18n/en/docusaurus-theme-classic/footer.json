@@ -39,9 +39,9 @@
     "message": "App Store",
     "description": "The label of footer link with label=App Store linking to https://apps.apple.com/ru/app/%D0%B8%D0%B3%D1%80%D0%B0-%D0%BB%D0%B8%D0%BB%D0%B0/id1296604457"
   },
-  "link.item.label.Google Play": {
-    "message": "Google Play",
-    "description": "The label of footer link with label=Google Play linking to https://play.google.com/store/apps/details?id=com.leelagame&hl=ru"
+  "link.item.label.Telegram Bot": {
+    "message": "Telegram Bot",
+    "description": "The label of footer link with label=Telegram Bot linking to https://t.me/leela_chakra_ai_bot"
   },
   "copyright": {
     "message": "Copyright © 2023 Leela Chakra Ai, Inc. Built with Docusaurus.",
