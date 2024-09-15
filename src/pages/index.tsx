@@ -42,6 +42,13 @@ function HomepageHeader() {
               id: 'android'
             })}
           </Link>
+          <div style={{ margin: '20px' }}></div>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://vk.com/leela.chakra"
+          >
+            {`VKontakte`}
+          </Link>
         </div>
       </div>
     </header>
