@@ -1,6 +1,6 @@
 import React from "react";
+// @ts-ignore
 import { ChevronDown } from "lucide-react";
-import "./styles.css";
 
 export function FAQ() {
   const faqs = [
