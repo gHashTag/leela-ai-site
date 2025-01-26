@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 // @ts-ignore
 import { Clock } from "lucide-react";
+import { translate } from "@docusaurus/Translate";
 
 interface PricingPlan {
   title: string;
@@ -49,24 +50,24 @@ export function CoursePricing({ plans }: CoursePricingProps) {
   };
 
   return (
-    <div>
+    <div className="py-12">
       <div className="flex items-center justify-center gap-4 rounded-2xl bg-blue-500 px-6 py-4 text-white shadow-lg">
         <Clock className="h-6 w-6 animate-pulse" />
         <div className="text-xl font-bold">
-          До конца акции осталось: {formatTime(timeLeft)}
+          {translate({ id: "countdownTimer" })} {formatTime(timeLeft)}
         </div>
       </div>
       <div className="flex flex-col items-center">
-        <div className="mx-auto mt-8 grid max-w-7xl grid-cols-1 gap-3 md:grid-cols-2 lg:grid-cols-3">
+        <div className="mx-auto mt-8 grid max-w-7xl grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {plans.map((plan, index) => (
             <div
               key={index}
-              className="flex h-full flex-col justify-between rounded-lg shadow-md transition-shadow hover:shadow-lg"
+              className="flex h-full flex-col justify-between rounded-xl shadow-md transition-shadow hover:shadow-lg"
             >
-              <div className={`rounded-t-lg p-4 text-white ${getColor(index)}`}>
-                <h3 className="text-3xl  text-white font-bold">{plan.title}</h3>
+              <div className={`rounded-t-xl p-4 text-white ${getColor(index)}`}>
+                <h3 className="text-2xl font-bold">{plan.title}</h3>
               </div>
-              <div className="flex flex-grow flex-col justify-between rounded-b-lg bg-gray-50 p-4">
+              <div className="flex flex-grow flex-col justify-between rounded-b-lg bg-gray-50 p-6">
                 <div>
                   <p
                     className="mb-4 text-gray-600"
@@ -84,7 +85,9 @@ export function CoursePricing({ plans }: CoursePricingProps) {
                 <div className="mt-4 flex justify-center">
                   <a
                     href={timeLeft > 0 ? plan.discountedLink : plan.link}
-                    className={`inline-block w-full px-8 py-3 bg-blue-500 rounded text-center font-bold text-white shadow-lg transition-transform hover:scale-105 hover:shadow-xl`}
+                    className={`inline-block w-full px-8 py-3 ${getButtonColor(
+                      index
+                    )} rounded text-center font-bold text-white shadow-lg transition-transform hover:scale-105 hover:shadow-xl`}
                   >
                     {timeLeft > 0
                       ? `Купить за ${plan.discountedPrice} руб`

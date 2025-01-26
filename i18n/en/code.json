@@ -308,5 +308,191 @@
   },
   "team": {
     "message": "Team"
+  },
+  "name": {
+    "message": "Gaia Kamskaya"
+  },
+  "telegram": {
+    "message": "https://t.me/playom"
+  },
+  "role": {
+    "message": "Neurocoach and spiritual mentor"
+  },
+  "experience": {
+    "message": "12 years of experience in Vedic culture"
+  },
+  "imageCaption": {
+    "message": "Explore the world with Gaia Kamskaya"
+  },
+  "bonusLabelTitle": {
+    "message": "KNOWLEDGE OF LIFE GAME"
+  },
+  "bonusLabelDescription": {
+    "message": "WITH LEELA IN THE GIFT"
+  },
+  "bonusDescription": {
+    "message": "Creator of the mobile game Leela Chakra Ai with a personal Guru assistant, entered the TOP 100 educational mobile gaming platforms by App Store."
+  },
+  "imageAvatar": {
+    "message": "https://yuukfqcsdhkyxegfwlcb.supabase.co/storage/v1/object/public/landingpage/avatars/playom/gaia_kamskaya.JPG"
+  },
+  "imageUrl": {
+    "message": "https://yuukfqcsdhkyxegfwlcb.supabase.co/storage/v1/object/public/landingpage/avatars/playom/leelachakra.JPG"
+  },
+  "description": {
+    "message": "Consultation with neurocoach Gaia Kamskaya with 12 years of experience in Vedic culture as a teacher and creator of the mobile game Leela Chakra Ai - NeuroLila, with a personal Guru assistant, entered the TOP 100 educational mobile gaming platforms by App Store. Gaia is a spiritual mentor, Vedic researcher, and Jnana Yoga teacher. She holds the status of Brahmacari in the tradition of Advaita Vedanta - the path of non-duality, whose roots go back to Datta Treya, the creator of the Vedas. Harmoniously combining ancient wisdom and modern technologies, Gaia opens a new era of self-discovery. Her mission is to help people understand their true nature, achieve inner integrity, and learn to mix ancient Vedic knowledge and technologies in real life."
+  },
+  "consultationBenefits": {
+    "message": "Benefits of consultation: personal support, long-term effect, formation of intention, unpacking of personality, discussion of personal goals/ambitions and development of a strategy for their achievement, both professional and personal growth, tools and techniques for managing emotions, as well as psychological aspects of one's life, self-assessment, motivation, inspiration, and relationships."
+  },
+  "title": {
+    "message": "NEURO LEELA"
+  },
+  "subtitle": {
+    "message": "Journey into self-discovery through the game and Vedic wisdom"
+  },
+  "bonusTitle": {
+    "message": "BONUS FOR REGISTRATION"
+  },
+  "neurosmmDescription": {
+    "message": "Dive into learning and the game under the guidance of neurocoach Gaia Kamskaya."
+  },
+  "achievements": {
+    "message": "Neurocoach, Spiritual mentor, Vedic researcher, Jnana Yoga teacher"
+  },
+  "achievementDescriptions": {
+    "message": "Neurocoach: Assistance in self-discovery and personal development. Spiritual mentor: Guiding the path of spiritual growth. Vedic researcher: Deep study of Vedic culture. Jnana Yoga teacher: Learning the philosophy of non-duality."
+  },
+  "courseProgram": {
+      "message": "Course Program"
+    },
+    "courseProgram.rules": {
+      "message": "Game Rules"
+    },
+    "courseProgram.lessons": {
+      "message": "Spiritual Lessons through 4 types of yoga"
+    },
+    "courseProgram.application": {
+      "message": "Application of the Game in Life"
+    },
+    "courseProgram.advanced": {
+      "message": "Advanced Techniques and Strategies"
+    },
+    "courseProgram.conclusion": {
+      "message": "Conclusion and Implementation"
+    },
+    "courseProgram.pantheon": {
+      "message": "Pantheon of Gods"
+    },
+    "courseProgram.pantheon.lesson1": {
+      "message": "Brahma Vishnu Shiva"
+    },
+    "courseProgram.pantheon.lesson2": {
+      "message": "Dualism: Light and Darkness, Good and Evil, Time and Infinity"
+    },
+    "courseProgram.pantheon.lesson3": {
+      "message": "Energy Shakti, Cosmology"
+    },
+    "courseProgram.advanced.lesson1": {
+      "message": "Using mantras and meditations during the game"
+    },
+    "courseProgram.advanced.lesson2": {
+      "message": "Strategies for achieving higher levels of consciousness"
+    },
+    "courseProgram.advanced.lesson3": {
+      "message": "Integration of Leela lessons into everyday life"
+    },
+    "courseProgram.conclusion.lesson1": {
+      "message": "Discussion and analysis of personal experience"
+    },
+    "courseProgram.conclusion.lesson2": {
+      "message": "Tips for deepening spiritual practice"
+    },
+    "courseProgram.conclusion.lesson3": {
+      "message": "Paths to achieving Moksha and realization of Atman through the game"
+    },
+    "courseProgram.introduction": {
+      "message": "Introduction to Leela Chakra Ai"
+    },
+    "courseProgram.introduction.lesson1": {
+      "message": "History and origin of the game"
+    },
+    "courseProgram.introduction.lesson2": {
+      "message": "Value of Leela in the Vedic tradition"
+    },
+    "courseProgram.introduction.lesson3": {
+      "message": "Main goals, principles and benefits"
+    },
+    "courseProgram.structure": {
+      "message": "Structure and Symbolism of the Game"
+    },
+    "courseProgram.structure.lesson1": {
+      "message": "Game field and its division into squares"
+    },
+    "courseProgram.structure.lesson2": {
+      "message": "Chakras and their correspondence to life stages"
+    },
+    "courseProgram.structure.lesson3": {
+      "message": "Value of figures and bones in the game"
+    },
+    "courseProgram.rules.lesson1": {
+      "message": "Preparation for the game and setting up players"
+    },
+    "courseProgram.rules.lesson2": {
+      "message": "Order of moves and interpretation of results"
+    },
+    "courseProgram.rules.lesson3": {
+      "message": "Role of randomness and free choice"
+    },
+    "courseProgram.lessons.lesson1": {
+      "message": "Self-knowledge through the game, Yama and Niyama"
+    },
+    "courseProgram.lessons.lesson2": {
+      "message": "Overcoming obstacles and karmic knots"
+    },
+    "courseProgram.lessons.lesson3": {
+      "message": "Development of skills of non-attachment and humility"
+    },
+    "courseProgram.application.lesson1": {
+      "message": "The game as meditation and practice of mindfulness"
+    },
+    "courseProgram.application.lesson2": {
+      "message": "The game as a mirror of personal life situations"
+    },
+    "courseProgram.application.lesson3": {
+      "message": "The game as a path to spiritual awakening"
+  },
+  "courseAuthor": {
+    "message": "About the author of the course"
+  },
+  "achievementDescriptions.neurocoach": {
+    "message": "Neurocoach"
+  },
+  "achievementDescriptions.spiritualMentor": {
+    "message": "Spiritual mentor"
+  },
+  "achievementDescriptions.vedicResearcher": {
+    "message": "Vedic researcher"
+  },
+  "achievementDescriptions.jnanaYogaTeacher": {
+    "message": "Jnana Yoga teacher"
+  },
+  "achievementDescriptions.1": {
+    "message": "Help in self-discovery and personal development."
+  },
+  "achievementDescriptions.2": {
+    "message": "Guiding the path of spiritual growth."
+  },
+  "achievementDescriptions.3": {
+    "message": "Deep study of Vedic culture."
+  },
+  "achievementDescriptions.4": {
+    "message": "Learning the philosophy of non-duality."
+  },
+  "countdownTimer": {
+    "message": "Time left until the end of the action:"
+  },
+  "consultationBenefits.title": {
+    "message": "Consultation with a neurocoach"
   }
 }

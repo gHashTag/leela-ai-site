@@ -11,55 +11,68 @@ import styles from "./index.module.css";
 import { CourseProgram } from "../components/CourseSlideshow";
 import { FAQ } from "../components/FAQ";
 import { CoursePricing } from "../components/CoursePricing";
-import { PricingPlans } from "../components/CoursePricing/PricingPlans";
+import {
+  PricingPlansEN,
+  PricingPlansRU,
+} from "../components/CoursePricing/PricingPlans";
 import { HeroIntensive } from "../components/HeroIntensive";
 import { AuthorSection } from "../components/AuthorSection";
 import { ConsultationBenefits } from "../components/ConsultationBenefits";
 import { ContactSection } from "../components/ContactSection";
+import useBrowserLanguage from "../hooks/useBrowserLanguage";
 // import englishment from '@site/static/img/enlighnment.png'
 // import { Tokenomics } from '../components/sections/Tokenomics'
 // import { TeamList } from '../components/sections/TeamList'
 // import { GameRules } from '../components/sections/GameRules'
 // import { RoadMap } from '../components/sections/RoadMap'
 
-const autor = {
-  name: "Гая Камская",
-  telegram: "https://t.me/playom",
-  role: "Нейрокоуч и духовный наставник",
-  experience: "12 лет опыта в ведической культуре",
-  imageCaption: "Исследуй мир с Гаей Камской",
-  bonusLabelTitle: "ПОЗНАНИЕ ИГРЫ ЖИЗНИ",
-  bonusLabelDescription: "С ЛИЛОЙ В ПОДАРОК",
-  bonusDescription:
-    "Создатель мобильной игры Leela Chakra Ai с персональным Гуру ассистентом, вошедшего в TOP 100 игровых образовательных мобильных платформ по версии App Store.",
-  imageAvatar:
-    "https://yuukfqcsdhkyxegfwlcb.supabase.co/storage/v1/object/public/landingpage/avatars/playom/gaia_kamskaya.JPG",
-  imageUrl:
-    "https://yuukfqcsdhkyxegfwlcb.supabase.co/storage/v1/object/public/landingpage/avatars/playom/leelachakra.JPG", // Обновите URL, если необходимо
-  description:
-    "Консультация с нейрокоучем Гаей Камской с 12-летним опытом ведической культуры в роли учителя и создателя мобильной игры Leela Chakra Ai - НейроЛила, с персональным Гуру ассистентом, вошедшего в TOP 100 игровых образовательных мобильных платформ по версии App Store. Гая духовный наставник, исследователь Вед и преподаватель джняна-йоги. Она обладает статусом брахмачарини в традиции адвайта-веданты - пути недвойственности бытия, корни которого уходят к Даттатрее, создателю Вед. Гармонично соединяя древнюю мудрость и современные технологии, Гая открывает новую эру самопознания. Её миссия - помочь людям осознать свою истинную природу, обрести внутреннюю целостность и научиться миксовать древние ведические знания и технологии в реальной жизни.",
-  consultationBenefits:
-    "Преимущества консультации: персональная поддержка, долгосрочный эффект, формирование намерения, распаковка личности, обсуждение личных целей/амбиций и разработка стратегии для их достижения, как профессионального, так и личного роста, инструменты и техники управления эмоциями, а также анализ психологических аспектов своей жизни, самооценка, мотивация, вдохновение и отношения.",
-  title: "НЕЙРО ЛИЛА",
-  subtitle: "Путешествие в мир самопознания через игру и ведическую мудрость",
-  bonusTitle: "БОНУС ПРИ РЕГИСТРАЦИИ",
-  neurosmmDescription:
-    "Погружайтесь в обучение и игру под руководством нейрокоуча Гаи Камской.",
-  achievements: [
-    "Нейрокоуч",
-    "Духовный наставник",
-    "Исследователь Вед",
-    "Преподаватель джняна-йоги",
-  ],
-  achievementDescriptions: {
-    Нейрокоуч: "Помощь в самопознании и развитии личности.",
-    "Духовный наставник": "Ведение по пути духовного роста.",
-    "Исследователь Вед": "Глубокое изучение ведической культуры.",
-    "Преподаватель джняна-йоги": "Обучение философии недвойственности.",
-  },
+// ... existing imports ...
+
+const getAutor = () => {
+  return {
+    name: translate({ id: "name" }),
+    telegram: "https://t.me/playom",
+    role: translate({ id: "role" }),
+    experience: translate({ id: "experience" }),
+    imageCaption: translate({ id: "imageCaption" }),
+    bonusLabelTitle: translate({ id: "bonusLabelTitle" }),
+    bonusLabelDescription: translate({ id: "bonusLabelDescription" }),
+    bonusDescription: translate({ id: "bonusDescription" }),
+    imageAvatar:
+      "https://yuukfqcsdhkyxegfwlcb.supabase.co/storage/v1/object/public/landingpage/avatars/playom/gaia_kamskaya.JPG",
+    imageUrl:
+      "https://yuukfqcsdhkyxegfwlcb.supabase.co/storage/v1/object/public/landingpage/avatars/playom/leelachakra.JPG",
+    description: translate({ id: "description" }),
+    consultationBenefits: translate({ id: "consultationBenefits" }),
+    title: translate({ id: "title" }),
+    subtitle: translate({ id: "subtitle" }),
+    bonusTitle: translate({ id: "bonusTitle" }),
+    neurosmmDescription: translate({ id: "neurosmmDescription" }),
+    achievements: [
+      translate({ id: "achievements.1" }),
+      translate({ id: "achievements.2" }),
+      translate({ id: "achievements.3" }),
+      translate({ id: "achievements.4" }),
+    ],
+    achievementDescriptions: {
+      [translate({ id: "achievementDescriptions.neurocoach" })]: translate({
+        id: "achievementDescriptions.1",
+      }),
+      [translate({ id: "achievementDescriptions.spiritualMentor" })]: translate(
+        { id: "achievementDescriptions.2" }
+      ),
+      [translate({ id: "achievementDescriptions.vedicResearcher" })]: translate(
+        { id: "achievementDescriptions.3" }
+      ),
+      [translate({ id: "achievementDescriptions.jnanaYogaTeacher" })]:
+        translate({ id: "achievementDescriptions.4" }),
+    },
+  };
 };
+
 function HomepageHeader(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
+  const { isRu } = useBrowserLanguage();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container mx-auto px-4">
@@ -106,7 +119,8 @@ function HomepageHeader(): JSX.Element {
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
-
+  const { isRu } = useBrowserLanguage();
+  const autor = getAutor();
   return (
     // @ts-ignore
     <Layout
@@ -161,7 +175,7 @@ export default function Home(): JSX.Element {
 
       <section id="faq" className="px-4 py-5">
         <div className="mx-auto max-w-7xl">
-          <CoursePricing plans={PricingPlans} />
+          <CoursePricing plans={isRu ? PricingPlansRU : PricingPlansEN} />
         </div>
         <div className="flex justify-center" style={{ marginBottom: "80px" }} />
       </section>

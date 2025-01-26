@@ -308,5 +308,203 @@
   },
   "team": {
     "message": "Команда"
+  },
+  "name": {
+    "message": "Гая Камская"
+  },
+  "telegram": {
+    "message": "https://t.me/playom"
+  },
+  "role": {
+    "message": "Нейрокоуч и духовный наставник"
+  },
+  "experience": {
+    "message": "12 лет опыта в ведической культуре"
+  },
+  "imageCaption": {
+    "message": "Исследуй мир с Гаей Камской"
+  },
+  "bonusLabelTitle": {
+    "message": "ПОЗНАНИЕ ИГРЫ ЖИЗНИ"
+  },
+  "bonusLabelDescription": {
+    "message": "С ЛИЛОЙ В ПОДАРОК"
+  },
+  "bonusDescription": {
+    "message": "Создатель мобильной игры Leela Chakra Ai с персональным Гуру ассистентом, вошедшего в TOP 100 игровых образовательных мобильных платформ по версии App Store."
+  },
+  "imageAvatar": {
+    "message": "https://yuukfqcsdhkyxegfwlcb.supabase.co/storage/v1/object/public/landingpage/avatars/playom/gaia_kamskaya.JPG"
+  },
+  "imageUrl": {
+    "message": "https://yuukfqcsdhkyxegfwlcb.supabase.co/storage/v1/object/public/landingpage/avatars/playom/leelachakra.JPG"
+  },
+  "description": {
+    "message": "Консультация с нейрокоучем Гаей Камской с 12-летним опытом ведической культуры в роли учителя и создателя мобильной игры Leela Chakra Ai - НейроЛила, с персональным Гуру ассистентом, вошедшего в TOP 100 игровых образовательных мобильных платформ по версии App Store. Гая духовный наставник, исследователь Вед и преподаватель джняна-йоги. Она обладает статусом брахмачарини в традиции адвайта-веданты - пути недвойственности бытия, корни которого уходят к Даттатрее, создателю Вед. Гармонично соединяя древнюю мудрость и современные технологии, Гая открывает новую эру самопознания. Её миссия - помочь людям осознать свою истинную природу, обрести внутреннюю целостность и научиться миксовать древние ведические знания и технологии в реальной жизни."
+  },
+  "consultationBenefits": {
+    "message": "Преимущества консультации: персональная поддержка, долгосрочный эффект, формирование намерения, распаковка личности, обсуждение личных целей/амбиций и разработка стратегии для их достижения, как профессионального, так и личного роста, инструменты и техники управления эмоциями, а также анализ психологических аспектов своей жизни, самооценка, мотивация, вдохновение и отношения."
+  },
+  "title": {
+    "message": "НЕЙРО ЛИЛА"
+  },
+  "subtitle": {
+    "message": "Путешествие в мир самопознания через игру и ведическую мудрость"
+  },
+  "bonusTitle": {
+    "message": "БОНУС ПРИ РЕГИСТРАЦИИ"
+  },
+  "neurosmmDescription": {
+    "message": "Погружайтесь в обучение и игру под руководством нейрокоуча Гаи Камской."
+  },
+  "achievements": {
+    "message": "Нейрокоуч, Духовный наставник, Исследователь Вед, Преподаватель джняна-йоги"
+  },
+  "achievementDescriptions": {
+    "message": "Нейрокоуч: Помощь в самопознании и развитии личности. Духовный наставник: Ведение по пути духовного роста. Исследователь Вед: Глубокое изучение ведической культуры. Преподаватель джняна-йоги: Обучение философии недвойственности."
+  },
+    "courseProgram": {
+      "message": "Программа курса"
+    },
+    "courseProgram.rules": {
+      "message": "Правила Игры Лила"
+    },
+    "courseProgram.lessons": {
+      "message": "Духовные Уроки Игры через 4 вида йоги"
+    },
+    "courseProgram.application": {
+      "message": "Применение Игры в Жизни"
+    },
+    "courseProgram.advanced": {
+      "message": "Продвинутые Техники и Стратегии"
+    },
+    "courseProgram.conclusion": {
+      "message": "Заключение и Реализация"
+    },
+    "courseProgram.pantheon": {
+      "message": "Пантеон божеств"
+    },
+    "courseProgram.pantheon.lesson1": {
+      "message": "Брахма Вишну Шива"
+    },
+    "courseProgram.pantheon.lesson2": {
+      "message": "Дуальность: Свет и тьма, добро и зло, время и бесконечность"
+    },
+    "courseProgram.pantheon.lesson3": {
+      "message": "Энергия Шакти, Космология"
+    },
+    "courseProgram.advanced.lesson1": {
+      "message": "Использование мантр и медитаций во время игры"
+    },
+    "courseProgram.advanced.lesson2": {
+      "message": "Стратегии для достижения высших уровней сознания"
+    },
+    "courseProgram.advanced.lesson3": {
+      "message": "Интеграция уроков Лилы в повседневную жизнь"
+    },
+    "courseProgram.conclusion.lesson1": {
+      "message": "Обсуждение и анализ личного опыта"
+    },
+    "courseProgram.conclusion.lesson2": {
+      "message": "Советы по углублению духовной практики"
+    },
+    "courseProgram.conclusion.lesson3": {
+      "message": "Пути достижения мокши и реализации Атмана через игру"
+    },
+    "courseProgram.introduction": {
+      "message": "Введение в Leela Chakra Ai"
+    },
+    "courseProgram.introduction.lesson1": {
+      "message": "История и происхождение игры"
+    },
+    "courseProgram.introduction.lesson2": {
+      "message": "Значение Лилы в ведической традиции"
+    },
+    "courseProgram.introduction.lesson3": {
+      "message": "Основные цели, принципы и польза"
+    },
+    "courseProgram.structure": {
+      "message": "Структура и Символизм Игры"
+    },
+    "courseProgram.structure.lesson1": {
+      "message": "Поле игры и его деление на квадраты"
+    },
+    "courseProgram.structure.lesson2": {
+      "message": "Чакры и их соответствие стадиям жизни"
+    },
+    "courseProgram.structure.lesson3": {
+      "message": "Значение фигур и костей в игре"
+    },
+    "courseProgram.rules.lesson1": {
+      "message": "Подготовка к игре и настрой игроков"
+    },
+    "courseProgram.rules.lesson2": {
+      "message": "Порядок ходов и интерпретация результатов"
+    },
+    "courseProgram.rules.lesson3": {
+      "message": "Роль случайности и свободы выбора"
+    },
+    "courseProgram.lessons.lesson1": {
+      "message": "Самопознание через игру, Яма и Неяма"
+    },
+    "courseProgram.lessons.lesson2": {
+      "message": "Преодоление препятствий и кармических узлов"
+    },
+    "courseProgram.lessons.lesson3": {
+      "message": "Развитие навыков непривязанности и смирения"
+    },
+    "courseProgram.application.lesson1": {
+      "message": "Игра как медитация и практика осознанности"
+    },
+    "courseProgram.application.lesson2": {
+      "message": "Игра как зеркало личных жизненных ситуаций"
+    },
+    "courseProgram.application.lesson3": {
+      "message": "Игра как путь к духовному пробуждению"
+    },
+    "courseAuthor": {
+      "message": "Об авторе курса"
+    },
+    "achievementDescriptions.neurocoach": {
+    "message": "Нейрокоуч"
+  },
+  "achievementDescriptions.achievements.1": {
+    "message": "Помощь в самопознании и развитии личности."
+  },
+  "achievementDescriptions.achievements.2": {
+    "message": "Ведение по пути духовного роста."
+  },
+  "achievementDescriptions.achievements.3": {
+    "message": "Глубокое изучение ведической культуры."
+  },
+  "achievementDescriptions.achievements.4": {
+    "message": "Обучение философии недвойственности."
+  },
+  "achievementDescriptions.spiritualMentor": {
+    "message": "Духовный наставник"
+  },
+  "achievementDescriptions.vedicResearcher": {
+    "message": "Исследователь Вед"
+  },
+  "achievementDescriptions.jnanaYogaTeacher": {
+    "message": "Преподаватель джняна-йоги"
+  },
+  "achievementDescriptions.1": {
+    "message": "Помощь в самопознании и развитии личности."
+  },
+  "achievementDescriptions.2": {
+    "message": "Ведение по пути духовного роста."
+  },
+  "achievementDescriptions.3": {
+    "message": "Глубокое изучение ведической культуры."
+  },
+  "achievementDescriptions.4": {
+    "message": "Обучение философии недвойственности."
+  },
+  "countdownTimer": {
+    "message": "До конца акции осталось:"
+  },
+  "consultationBenefits.title": {
+    "message": "Игра с ментором"
   }
 }

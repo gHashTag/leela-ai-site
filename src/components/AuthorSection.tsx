@@ -1,6 +1,7 @@
 import React from "react";
 // @ts-ignore
 import { Code, Brain, Globe, Rocket } from "lucide-react";
+import { translate } from "@docusaurus/Translate";
 
 interface AuthorSectionProps {
   author: {
@@ -34,9 +35,7 @@ export function AuthorSection({
 
               {/* Информация об авторе */}
               <div className="rounded-lg bg-white p-8 shadow-lg">
-                <h2 className="mb-6 mt-8 text-4xl font-extrabold text-gray-600">
-                  Об авторе курса
-                </h2>
+                <h2 className="mb-6 mt-8 text-4xl font-extrabold text-gray-600"></h2>
                 <h3 className="mb-4 text-3xl font-semibold text-gray-900">
                   {author.name}
                 </h3>
@@ -75,7 +74,7 @@ export function AuthorSection({
               {/* Информация об авторе */}
               <div className="rounded-lg bg-white p-8 shadow-lg">
                 <h2 className="mb-6 mt-8 text-4xl font-extrabold text-gray-600">
-                  Об авторе курса
+                  {translate({ id: "courseAuthor" })}
                 </h2>
                 <h3 className="mb-4 text-3xl font-semibold text-gray-900">
                   {author.name}
@@ -102,7 +101,9 @@ export function AuthorSection({
                       )}
                       <div>
                         <div className="text-sm text-gray-600">
-                          {author.achievementDescriptions[achievement]}
+                          {translate({
+                            id: `achievementDescriptions.${achievement}`,
+                          })}
                         </div>
                       </div>
                     </div>

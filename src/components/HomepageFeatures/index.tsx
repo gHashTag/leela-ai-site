@@ -4,7 +4,7 @@ import styles from "./styles.module.css";
 import { translate } from "@docusaurus/Translate";
 
 type FeatureItem = {
-  title: string;
+  title: JSX.Element;
   Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: JSX.Element;
 };
@@ -12,53 +12,53 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: (
-      <h3>
+      <>
         {translate({
           id: "easytouse",
         })}
-      </h3>
+      </>
     ),
     Svg: require("@site/static/img/important.svg").default,
     description: (
-      <h4>
+      <>
         {translate({
           id: "easytouse.desc",
         })}
-      </h4>
+      </>
     ),
   },
   {
     title: (
-      <h3>
+      <>
         {translate({
           id: "focus",
         })}
-      </h3>
+      </>
     ),
     Svg: require("@site/static/img/easy.svg").default,
     description: (
-      <h4>
+      <>
         {translate({
           id: "focus.desc",
         })}
-      </h4>
+      </>
     ),
   },
   {
     title: (
-      <h3>
+      <>
         {translate({
           id: "supported",
         })}
-      </h3>
+      </>
     ),
     Svg: require("@site/static/img/ai.svg").default,
     description: (
-      <h4>
+      <>
         {translate({
           id: "supported.desc",
         })}
-      </h4>
+      </>
     ),
   },
 ];

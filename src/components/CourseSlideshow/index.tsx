@@ -3,11 +3,13 @@ import React from "react";
 import { ChevronDown } from "lucide-react";
 import { courseModules } from "./Modules";
 
+import { translate } from "@docusaurus/Translate";
+
 export function CourseProgram() {
   return (
     <div className="max-w-4xl mb-8 mx-auto rounded-2xl bg-gradient-to-r from-blue-50 to-blue-100 p-8 shadow-xl">
       <h2 className="mb-8 text-center text-4xl font-extrabold text-gray-900 sm:text-5xl lg:text-6xl">
-        Программа курса
+        {translate({ id: "courseProgram" })}
       </h2>
       <div className="space-y-4">
         {courseModules.map((module, moduleIndex) => (
