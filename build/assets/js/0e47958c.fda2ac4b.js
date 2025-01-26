@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkleela_ai_site=self.webpackChunkleela_ai_site||[]).push([[1346],{6229:e=>{e.exports=JSON.parse('{"title":"Plans","description":"Plans","slug":"/category/plans","permalink":"/docs/category/plans","navigation":{"previous":{"title":"Notes","permalink":"/docs/rules/notes"},"next":{"title":"Plan 1. Birth (janma)","permalink":"/docs/plans/birth"}}}')}}]);

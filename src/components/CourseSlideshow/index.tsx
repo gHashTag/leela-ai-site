@@ -1,4 +1,5 @@
 import React from "react";
+// @ts-ignore
 import { ChevronDown } from "lucide-react";
 import { courseModules } from "./Modules";
 import "./styles.css";

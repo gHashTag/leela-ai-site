@@ -1,67 +1,67 @@
-import { Code, Brain, Globe, Rocket } from 'lucide-react'
-import Image from 'next/image'
+import React from "react";
+// @ts-ignore
+import { Code, Brain, Globe, Rocket } from "lucide-react";
 
 interface AuthorSectionProps {
   author: {
-    name: string
-    imageUrl: string
-    description: string
-    achievements: string[]
-    achievementDescriptions: { [key: string]: string }
-  }
-  side?: 'left' | 'right'
+    name: string;
+    imageUrl: string;
+    description: string;
+    achievements: string[];
+    achievementDescriptions: { [key: string]: string };
+  };
+  side?: "left" | "right";
+  imageAvatar: string;
 }
 
-export function AuthorSection({ author, side = 'left' }: AuthorSectionProps) {
+export function AuthorSection({
+  author,
+  side = "left",
+  imageAvatar,
+}: AuthorSectionProps) {
   return (
-    <section className='px-4 py-16'>
-      <div className='mx-auto max-w-7xl'>
-        <div className='grid grid-cols-1 items-center gap-12 md:grid-cols-2'>
-          {side === 'left' ? (
+    <section className="px-4 py-16">
+      <div className="mx-auto max-w-7xl">
+        <div className="grid grid-cols-1 items-center gap-12 md:grid-cols-2">
+          {side === "left" ? (
             <>
               {/* Фото автора */}
-              <div className='relative'>
-                <div className='aspect-square overflow-hidden rounded-2xl shadow-lg'>
-                  <Image
-                    alt='Author'
-                    src={author.imageUrl}
-                    layout='fill'
-                    objectFit='cover'
-                    className='rounded-2xl'
-                  />
+              <div className="relative">
+                <div className="aspect-square overflow-hidden rounded-2xl shadow-lg">
+                  <img alt="Author" src={imageAvatar} className="rounded-2xl" />
                 </div>
               </div>
 
               {/* Информация об авторе */}
-              <div className='rounded-lg bg-white p-8 shadow-lg'>
-                <h2 className='mb-6 mt-8 text-4xl font-extrabold text-gray-600'>
+              <div className="rounded-lg bg-white p-8 shadow-lg">
+                <h2 className="mb-6 mt-8 text-4xl font-extrabold text-gray-600">
                   Об авторе курса
                 </h2>
-                <h3 className='mb-4 text-3xl font-semibold text-gray-900'>
+                <h3 className="mb-4 text-3xl font-semibold text-gray-900">
                   {author.name}
                 </h3>
-                <p className='mb-8 leading-relaxed text-gray-700'>
+                <p className="mb-8 leading-relaxed text-gray-700">
                   {author.description}
                 </p>
 
                 {/* Достижения */}
-                <div className='grid grid-cols-1 gap-8 sm:grid-cols-2'>
+                <div className="grid grid-cols-1 gap-8 sm:grid-cols-2">
                   {author.achievements.map((achievement, index) => (
-                    <div key={achievement} className='flex items-start gap-4'>
+                    <div key={achievement} className="flex items-start gap-4">
                       {index === 0 && (
-                        <Code className='h-8 w-8 flex-shrink-0 text-blue-600' />
+                        <Code className="h-8 w-8 flex-shrink-0 text-blue-600" />
                       )}
                       {index === 1 && (
-                        <Brain className='h-8 w-8 flex-shrink-0 text-green-600' />
+                        <Brain className="h-8 w-8 flex-shrink-0 text-green-600" />
                       )}
                       {index === 2 && (
-                        <Globe className='h-8 w-8 flex-shrink-0 text-purple-600' />
+                        <Globe className="h-8 w-8 flex-shrink-0 text-purple-600" />
                       )}
                       {index === 3 && (
-                        <Rocket className='h-8 w-8 flex-shrink-0 text-red-600' />
+                        <Rocket className="h-8 w-8 flex-shrink-0 text-red-600" />
                       )}
                       <div>
-                        <div className='text-sm text-gray-600'>
+                        <div className="text-sm text-gray-600">
                           {author.achievementDescriptions[achievement]}
                         </div>
                       </div>
@@ -73,35 +73,35 @@ export function AuthorSection({ author, side = 'left' }: AuthorSectionProps) {
           ) : (
             <>
               {/* Информация об авторе */}
-              <div className='rounded-lg bg-white p-8 shadow-lg'>
-                <h2 className='mb-6 mt-8 text-4xl font-extrabold text-gray-600'>
+              <div className="rounded-lg bg-white p-8 shadow-lg">
+                <h2 className="mb-6 mt-8 text-4xl font-extrabold text-gray-600">
                   Об авторе курса
                 </h2>
-                <h3 className='mb-4 text-3xl font-semibold text-gray-900'>
+                <h3 className="mb-4 text-3xl font-semibold text-gray-900">
                   {author.name}
                 </h3>
-                <p className='mb-8 leading-relaxed text-gray-700'>
+                <p className="mb-8 leading-relaxed text-gray-700">
                   {author.description}
                 </p>
 
                 {/* Достижения */}
-                <div className='grid grid-cols-1 gap-8 sm:grid-cols-2'>
+                <div className="grid grid-cols-1 gap-8 sm:grid-cols-2">
                   {author.achievements.map((achievement, index) => (
-                    <div key={achievement} className='flex items-start gap-4'>
+                    <div key={achievement} className="flex items-start gap-4">
                       {index === 0 && (
-                        <Code className='h-8 w-8 flex-shrink-0 text-blue-600' />
+                        <Code className="h-8 w-8 flex-shrink-0 text-blue-600" />
                       )}
                       {index === 1 && (
-                        <Brain className='h-8 w-8 flex-shrink-0 text-green-600' />
+                        <Brain className="h-8 w-8 flex-shrink-0 text-green-600" />
                       )}
                       {index === 2 && (
-                        <Globe className='h-8 w-8 flex-shrink-0 text-purple-600' />
+                        <Globe className="h-8 w-8 flex-shrink-0 text-purple-600" />
                       )}
                       {index === 3 && (
-                        <Rocket className='h-8 w-8 flex-shrink-0 text-red-600' />
+                        <Rocket className="h-8 w-8 flex-shrink-0 text-red-600" />
                       )}
                       <div>
-                        <div className='text-sm text-gray-600'>
+                        <div className="text-sm text-gray-600">
                           {author.achievementDescriptions[achievement]}
                         </div>
                       </div>
@@ -111,15 +111,9 @@ export function AuthorSection({ author, side = 'left' }: AuthorSectionProps) {
               </div>
 
               {/* Фото автора */}
-              <div className='relative'>
-                <div className='aspect-square overflow-hidden rounded-2xl shadow-lg'>
-                  <Image
-                    alt='Author'
-                    src={author.imageUrl}
-                    layout='fill'
-                    objectFit='cover'
-                    className='rounded-2xl'
-                  />
+              <div className="relative">
+                <div className="aspect-square overflow-hidden rounded-2xl shadow-lg">
+                  <img alt="Author" src={imageAvatar} className="rounded-2xl" />
                 </div>
               </div>
             </>
@@ -127,5 +121,5 @@ export function AuthorSection({ author, side = 'left' }: AuthorSectionProps) {
         </div>
       </div>
     </section>
-  )
+  );
 }
