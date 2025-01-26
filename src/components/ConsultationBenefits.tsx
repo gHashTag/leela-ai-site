@@ -2,9 +2,11 @@ import React from "react";
 //@ts-ignore
 import { Heart, Target, User, Brain, Smile, Compass } from "lucide-react";
 import { translate } from "@docusaurus/Translate";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 export function ConsultationBenefits() {
-  const language = navigator.language.startsWith("ru") ? "ru" : "en";
+  const { i18n } = useDocusaurusContext();
+  const language = i18n.currentLocale;
   const benefits = [
     {
       icon: <Heart className="h-8 w-8 text-red-500" />,

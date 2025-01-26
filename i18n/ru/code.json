@@ -506,5 +506,17 @@
   },
   "consultationBenefits.title": {
     "message": "Игра с ментором"
-  }
+  },
+  "contactSection.title": {
+    "message": "Готовы начать путешествие с Лилой?"
+  },
+  "contactSection.description": {
+    "message": "Присоединяйтесь к нам и откройте для себя мир самопознания и ведической мудрости!"
+  },
+  "contactSection.button": {
+    "message": "Узнать больше"
+  },
+  "contactSection.button.pay": {
+    "message": "Оплатить участие"
+  } 
 }

@@ -20,6 +20,10 @@ import { AuthorSection } from "../components/AuthorSection";
 import { ConsultationBenefits } from "../components/ConsultationBenefits";
 import { ContactSection } from "../components/ContactSection";
 import useBrowserLanguage from "../hooks/useBrowserLanguage";
+import {
+  courseModulesEN,
+  courseModulesRU,
+} from "../components/CourseSlideshow/Modules";
 // import englishment from '@site/static/img/enlighnment.png'
 // import { Tokenomics } from '../components/sections/Tokenomics'
 // import { TeamList } from '../components/sections/TeamList'
@@ -120,6 +124,8 @@ function HomepageHeader(): JSX.Element {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   const { isRu } = useBrowserLanguage();
+  console.log(isRu, "isRu");
+  const courseModules = isRu ? courseModulesRU : courseModulesEN;
   const autor = getAutor();
   return (
     // @ts-ignore
@@ -158,7 +164,7 @@ export default function Home(): JSX.Element {
 
       <section id="course-program" className="px-4 py-5">
         <div className="mx-auto max-w-7xl">
-          <CourseProgram />
+          <CourseProgram courseModules={courseModules} />
         </div>
         <div className="flex justify-center" style={{ marginBottom: "20px" }} />
       </section>

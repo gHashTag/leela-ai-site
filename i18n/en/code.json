@@ -494,5 +494,29 @@
   },
   "consultationBenefits.title": {
     "message": "Consultation with a neurocoach"
+  },
+  "achievementDescriptions.achievements.1": {
+    "message": "Help in self-discovery and personal development."
+  },
+  "achievementDescriptions.achievements.2": {
+    "message": "Guiding the path of spiritual growth."
+  },
+  "achievementDescriptions.achievements.3": {
+    "message": "Deep study of Vedic culture."
+  },
+  "achievementDescriptions.achievements.4": {
+    "message": "Learning the philosophy of non-duality."
+  },
+  "contactSection.title": {
+    "message": "Ready to start the journey with Leela?"
+  },
+  "contactSection.description": {
+    "message": "Join us and discover the world of self-discovery and Vedic wisdom!"
+  },
+  "contactSection.button": {
+    "message": "Learn more"
+  },
+  "contactSection.button.pay": {
+    "message": "Pay for participation"
   }
 }
