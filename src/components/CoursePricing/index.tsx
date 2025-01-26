@@ -17,15 +17,20 @@ interface CoursePricingProps {
 
 export function CoursePricing({ plans }: CoursePricingProps) {
   const [timeLeft, setTimeLeft] = useState(() => {
-    const savedTime = localStorage.getItem("timeLeft");
-    return savedTime ? parseInt(savedTime, 10) : 24 * 60 * 60;
+    if (typeof window !== "undefined") {
+      const savedTime = localStorage.getItem("timeLeft");
+      return savedTime ? parseInt(savedTime, 10) : 24 * 60 * 60;
+    }
+    return 24 * 60 * 60;
   });
 
   useEffect(() => {
     const timer = setInterval(() => {
       setTimeLeft((prevTime) => {
         const newTime = prevTime > 0 ? prevTime - 1 : 0;
-        localStorage.setItem("timeLeft", newTime.toString());
+        if (typeof window !== "undefined") {
+          localStorage.setItem("timeLeft", newTime.toString());
+        }
         return newTime;
       });
     }, 1000);
