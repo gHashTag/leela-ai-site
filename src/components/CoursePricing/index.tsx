@@ -14,9 +14,10 @@ interface PricingPlan {
 
 interface CoursePricingProps {
   plans: PricingPlan[];
+  isRu: boolean;
 }
 
-export function CoursePricing({ plans }: CoursePricingProps) {
+export function CoursePricing({ plans, isRu }: CoursePricingProps) {
   const [timeLeft, setTimeLeft] = useState(() => {
     if (typeof window !== "undefined") {
       const savedTime = localStorage.getItem("timeLeft");
@@ -75,10 +76,10 @@ export function CoursePricing({ plans }: CoursePricingProps) {
                   ></p>
                   <div className="mb-2 text-center text-2xl font-bold text-gray-800">
                     <h3 className="text-gray-400 line-through">
-                      {plan.price} руб
+                      {plan.price} ₽
                     </h3>
                     <h3 className="text-gray-800 font-bold">
-                      {timeLeft > 0 && `${plan.discountedPrice} руб`}
+                      {timeLeft > 0 && `${plan.discountedPrice} ₽`}
                     </h3>
                   </div>
                 </div>
@@ -87,11 +88,15 @@ export function CoursePricing({ plans }: CoursePricingProps) {
                     href={timeLeft > 0 ? plan.discountedLink : plan.link}
                     className={`inline-block w-full px-8 py-3 ${getButtonColor(
                       index
-                    )} rounded text-center font-bold text-white shadow-lg transition-transform hover:scale-105 hover:shadow-xl`}
+                    )} rounded text-center font-bold text-white shadow-lg transition-transform hover:scale-105 hover:shadow-xl hover:text-black`}
                   >
                     {timeLeft > 0
-                      ? `Купить за ${plan.discountedPrice} руб`
-                      : `Купить за ${plan.price} руб`}
+                      ? isRu
+                        ? `Купить за ${plan.discountedPrice} ₽`
+                        : `Buy for ${plan.discountedPrice} $`
+                      : isRu
+                      ? `Купить за ${plan.price} ₽`
+                      : `Buy for ${plan.price} $`}
                   </a>
                 </div>
               </div>

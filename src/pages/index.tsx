@@ -115,6 +115,13 @@ function HomepageHeader(): JSX.Element {
           >
             {`VKontakte`}
           </Link>
+          <div className="my-2"></div>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://t.me/leela_chakra_ai_bot"
+          >
+            {`Telegram bot`}
+          </Link>
         </div>
       </div>
     </header>
@@ -181,7 +188,10 @@ export default function Home(): JSX.Element {
 
       <section id="faq" className="px-4 py-5">
         <div className="mx-auto max-w-7xl">
-          <CoursePricing plans={isRu ? PricingPlansRU : PricingPlansEN} />
+          <CoursePricing
+            plans={isRu ? PricingPlansRU : PricingPlansEN}
+            isRu={isRu}
+          />
         </div>
         <div className="flex justify-center" style={{ marginBottom: "80px" }} />
       </section>
