@@ -100,14 +100,14 @@ function HomepageHeader(): JSX.Element {
             })}
           </Link>
           <div className="my-2"></div>
-          <Link
+          {/* <Link
             className="button button--secondary button--lg"
             to="https://t.me/leela_chakra_ai_bot"
           >
             {translate({
               id: "android",
             })}
-          </Link>
+          </Link> */}
           <div className="my-2"></div>
           <Link
             className="button button--secondary button--lg"
